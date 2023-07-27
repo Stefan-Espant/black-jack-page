@@ -1,0 +1,3582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Laag_2" data-name="Laag 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 30.36 40.17">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25, .cls-26, .cls-27, .cls-28, .cls-29, .cls-30, .cls-31, .cls-32, .cls-33, .cls-34, .cls-35, .cls-36, .cls-37, .cls-38, .cls-39, .cls-40, .cls-41, .cls-42, .cls-43, .cls-44, .cls-45, .cls-46, .cls-47, .cls-48, .cls-49, .cls-50, .cls-51, .cls-52, .cls-53, .cls-54, .cls-55, .cls-56, .cls-57, .cls-58, .cls-59, .cls-60, .cls-61, .cls-62, .cls-63, .cls-64, .cls-65, .cls-66, .cls-67, .cls-68, .cls-69, .cls-70, .cls-71, .cls-72, .cls-73, .cls-74, .cls-75, .cls-76, .cls-77, .cls-78, .cls-79, .cls-80, .cls-81, .cls-82, .cls-83, .cls-84, .cls-85, .cls-86, .cls-87, .cls-88, .cls-89, .cls-90, .cls-91, .cls-92, .cls-93, .cls-94, .cls-95, .cls-96, .cls-97, .cls-98, .cls-99, .cls-100, .cls-101, .cls-102, .cls-103, .cls-104, .cls-105, .cls-106, .cls-107, .cls-108, .cls-109, .cls-110, .cls-111, .cls-112, .cls-113, .cls-114, .cls-115, .cls-116, .cls-117, .cls-118, .cls-119, .cls-120, .cls-121, .cls-122, .cls-123, .cls-124, .cls-125, .cls-126, .cls-127, .cls-128, .cls-129, .cls-130 {
+        fill: none;
+      }
+
+      .cls-131 {
+        fill: url(#_10_dpi_30_);
+      }
+
+      .cls-2 {
+        clip-path: url(#clippath-8);
+      }
+
+      .cls-3 {
+        clip-path: url(#clippath-7);
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath-6);
+      }
+
+      .cls-5 {
+        clip-path: url(#clippath-9);
+      }
+
+      .cls-6 {
+        clip-path: url(#clippath-5);
+      }
+
+      .cls-7 {
+        clip-path: url(#clippath-3);
+      }
+
+      .cls-8 {
+        clip-path: url(#clippath-4);
+      }
+
+      .cls-9 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-10 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-132 {
+        fill: #fff;
+      }
+
+      .cls-133 {
+        fill: #085df4;
+      }
+
+      .cls-134 {
+        fill: #1d1d1b;
+      }
+
+      .cls-11 {
+        clip-path: url(#clippath-13);
+      }
+
+      .cls-12 {
+        clip-path: url(#clippath-14);
+      }
+
+      .cls-13 {
+        clip-path: url(#clippath-12);
+      }
+
+      .cls-14 {
+        clip-path: url(#clippath-11);
+      }
+
+      .cls-15 {
+        clip-path: url(#clippath-18);
+      }
+
+      .cls-16 {
+        clip-path: url(#clippath-19);
+      }
+
+      .cls-17 {
+        clip-path: url(#clippath-17);
+      }
+
+      .cls-18 {
+        clip-path: url(#clippath-16);
+      }
+
+      .cls-19 {
+        clip-path: url(#clippath-10);
+      }
+
+      .cls-20 {
+        clip-path: url(#clippath-15);
+      }
+
+      .cls-21 {
+        clip-path: url(#clippath-25);
+      }
+
+      .cls-22 {
+        clip-path: url(#clippath-22);
+      }
+
+      .cls-23 {
+        clip-path: url(#clippath-23);
+      }
+
+      .cls-24 {
+        clip-path: url(#clippath-24);
+      }
+
+      .cls-25 {
+        clip-path: url(#clippath-21);
+      }
+
+      .cls-26 {
+        clip-path: url(#clippath-20);
+      }
+
+      .cls-27 {
+        clip-path: url(#clippath-45);
+      }
+
+      .cls-28 {
+        clip-path: url(#clippath-40);
+      }
+
+      .cls-29 {
+        clip-path: url(#clippath-42);
+      }
+
+      .cls-30 {
+        clip-path: url(#clippath-41);
+      }
+
+      .cls-31 {
+        clip-path: url(#clippath-44);
+      }
+
+      .cls-32 {
+        clip-path: url(#clippath-43);
+      }
+
+      .cls-33 {
+        clip-path: url(#clippath-46);
+      }
+
+      .cls-34 {
+        clip-path: url(#clippath-47);
+      }
+
+      .cls-35 {
+        clip-path: url(#clippath-49);
+      }
+
+      .cls-36 {
+        clip-path: url(#clippath-48);
+      }
+
+      .cls-37 {
+        clip-path: url(#clippath-86);
+      }
+
+      .cls-38 {
+        clip-path: url(#clippath-84);
+      }
+
+      .cls-39 {
+        clip-path: url(#clippath-88);
+      }
+
+      .cls-40 {
+        clip-path: url(#clippath-98);
+      }
+
+      .cls-41 {
+        clip-path: url(#clippath-81);
+      }
+
+      .cls-42 {
+        clip-path: url(#clippath-83);
+      }
+
+      .cls-43 {
+        clip-path: url(#clippath-85);
+      }
+
+      .cls-44 {
+        clip-path: url(#clippath-80);
+      }
+
+      .cls-45 {
+        clip-path: url(#clippath-87);
+      }
+
+      .cls-46 {
+        clip-path: url(#clippath-82);
+      }
+
+      .cls-47 {
+        clip-path: url(#clippath-89);
+      }
+
+      .cls-48 {
+        clip-path: url(#clippath-34);
+      }
+
+      .cls-49 {
+        clip-path: url(#clippath-30);
+      }
+
+      .cls-50 {
+        clip-path: url(#clippath-32);
+      }
+
+      .cls-51 {
+        clip-path: url(#clippath-33);
+      }
+
+      .cls-52 {
+        clip-path: url(#clippath-35);
+      }
+
+      .cls-53 {
+        clip-path: url(#clippath-36);
+      }
+
+      .cls-54 {
+        clip-path: url(#clippath-39);
+      }
+
+      .cls-55 {
+        clip-path: url(#clippath-37);
+      }
+
+      .cls-56 {
+        clip-path: url(#clippath-29);
+      }
+
+      .cls-57 {
+        clip-path: url(#clippath-26);
+      }
+
+      .cls-58 {
+        clip-path: url(#clippath-28);
+      }
+
+      .cls-59 {
+        clip-path: url(#clippath-27);
+      }
+
+      .cls-60 {
+        clip-path: url(#clippath-92);
+      }
+
+      .cls-61 {
+        clip-path: url(#clippath-90);
+      }
+
+      .cls-62 {
+        clip-path: url(#clippath-97);
+      }
+
+      .cls-63 {
+        clip-path: url(#clippath-93);
+      }
+
+      .cls-64 {
+        clip-path: url(#clippath-91);
+      }
+
+      .cls-65 {
+        clip-path: url(#clippath-96);
+      }
+
+      .cls-66 {
+        clip-path: url(#clippath-94);
+      }
+
+      .cls-67 {
+        clip-path: url(#clippath-38);
+      }
+
+      .cls-68 {
+        clip-path: url(#clippath-31);
+      }
+
+      .cls-69 {
+        clip-path: url(#clippath-99);
+      }
+
+      .cls-70 {
+        clip-path: url(#clippath-95);
+      }
+
+      .cls-71 {
+        clip-path: url(#clippath-60);
+      }
+
+      .cls-72 {
+        clip-path: url(#clippath-69);
+      }
+
+      .cls-73 {
+        clip-path: url(#clippath-76);
+      }
+
+      .cls-74 {
+        clip-path: url(#clippath-71);
+      }
+
+      .cls-75 {
+        clip-path: url(#clippath-78);
+      }
+
+      .cls-76 {
+        clip-path: url(#clippath-74);
+      }
+
+      .cls-77 {
+        clip-path: url(#clippath-77);
+      }
+
+      .cls-78 {
+        clip-path: url(#clippath-75);
+      }
+
+      .cls-79 {
+        clip-path: url(#clippath-72);
+      }
+
+      .cls-80 {
+        clip-path: url(#clippath-70);
+      }
+
+      .cls-81 {
+        clip-path: url(#clippath-66);
+      }
+
+      .cls-82 {
+        clip-path: url(#clippath-58);
+      }
+
+      .cls-83 {
+        clip-path: url(#clippath-57);
+      }
+
+      .cls-84 {
+        clip-path: url(#clippath-52);
+      }
+
+      .cls-85 {
+        clip-path: url(#clippath-51);
+      }
+
+      .cls-86 {
+        clip-path: url(#clippath-55);
+      }
+
+      .cls-87 {
+        clip-path: url(#clippath-56);
+      }
+
+      .cls-88 {
+        clip-path: url(#clippath-50);
+      }
+
+      .cls-89 {
+        clip-path: url(#clippath-54);
+      }
+
+      .cls-90 {
+        clip-path: url(#clippath-53);
+      }
+
+      .cls-91 {
+        clip-path: url(#clippath-65);
+      }
+
+      .cls-92 {
+        clip-path: url(#clippath-63);
+      }
+
+      .cls-93 {
+        clip-path: url(#clippath-59);
+      }
+
+      .cls-94 {
+        clip-path: url(#clippath-73);
+      }
+
+      .cls-95 {
+        clip-path: url(#clippath-67);
+      }
+
+      .cls-96 {
+        clip-path: url(#clippath-61);
+      }
+
+      .cls-97 {
+        clip-path: url(#clippath-64);
+      }
+
+      .cls-98 {
+        clip-path: url(#clippath-68);
+      }
+
+      .cls-99 {
+        clip-path: url(#clippath-62);
+      }
+
+      .cls-100 {
+        clip-path: url(#clippath-79);
+      }
+
+      .cls-101 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-102 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-103 {
+        clip-path: url(#clippath-126);
+      }
+
+      .cls-104 {
+        clip-path: url(#clippath-122);
+      }
+
+      .cls-105 {
+        clip-path: url(#clippath-120);
+      }
+
+      .cls-106 {
+        clip-path: url(#clippath-125);
+      }
+
+      .cls-107 {
+        clip-path: url(#clippath-121);
+      }
+
+      .cls-108 {
+        clip-path: url(#clippath-123);
+      }
+
+      .cls-109 {
+        clip-path: url(#clippath-127);
+      }
+
+      .cls-110 {
+        clip-path: url(#clippath-124);
+      }
+
+      .cls-111 {
+        clip-path: url(#clippath-118);
+      }
+
+      .cls-112 {
+        clip-path: url(#clippath-117);
+      }
+
+      .cls-113 {
+        clip-path: url(#clippath-116);
+      }
+
+      .cls-114 {
+        clip-path: url(#clippath-119);
+      }
+
+      .cls-115 {
+        clip-path: url(#clippath-113);
+      }
+
+      .cls-116 {
+        clip-path: url(#clippath-114);
+      }
+
+      .cls-117 {
+        clip-path: url(#clippath-115);
+      }
+
+      .cls-118 {
+        clip-path: url(#clippath-110);
+      }
+
+      .cls-119 {
+        clip-path: url(#clippath-111);
+      }
+
+      .cls-120 {
+        clip-path: url(#clippath-112);
+      }
+
+      .cls-121 {
+        clip-path: url(#clippath-106);
+      }
+
+      .cls-122 {
+        clip-path: url(#clippath-108);
+      }
+
+      .cls-123 {
+        clip-path: url(#clippath-101);
+      }
+
+      .cls-124 {
+        clip-path: url(#clippath-102);
+      }
+
+      .cls-125 {
+        clip-path: url(#clippath-103);
+      }
+
+      .cls-126 {
+        clip-path: url(#clippath-100);
+      }
+
+      .cls-127 {
+        clip-path: url(#clippath-109);
+      }
+
+      .cls-128 {
+        clip-path: url(#clippath-104);
+      }
+
+      .cls-129 {
+        clip-path: url(#clippath-107);
+      }
+
+      .cls-130 {
+        clip-path: url(#clippath-105);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-132" x=".5" y="1" width="29.36" height="38.67" rx="2" ry="2"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-132" x="26.25" y="-2.31" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect class="cls-132" x="26.25" y="2.49" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <rect class="cls-132" x="26.25" y="7.29" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-4">
+      <rect class="cls-132" x="26.25" y="12.09" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-5">
+      <rect class="cls-132" x="26.25" y="16.89" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-6">
+      <rect class="cls-132" x="26.25" y="21.69" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-7">
+      <rect class="cls-132" x="26.25" y="26.49" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-8">
+      <rect class="cls-132" x="26.25" y="31.29" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-9">
+      <rect class="cls-132" x="26.25" y="36.09" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-10">
+      <rect class="cls-132" x="21.45" y="-2.31" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-11">
+      <rect class="cls-132" x="21.45" y="2.49" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-12">
+      <rect class="cls-132" x="21.45" y="7.29" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-13">
+      <rect class="cls-132" x="21.45" y="12.09" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-14">
+      <rect class="cls-132" x="21.45" y="16.89" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-15">
+      <rect class="cls-132" x="21.45" y="21.69" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-16">
+      <rect class="cls-132" x="21.45" y="26.49" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-17">
+      <rect class="cls-132" x="21.45" y="31.29" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-18">
+      <rect class="cls-132" x="21.45" y="36.09" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-19">
+      <rect class="cls-132" x="16.65" y="-2.31" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-20">
+      <rect class="cls-132" x="16.65" y="2.49" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-21">
+      <rect class="cls-132" x="16.65" y="7.29" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-22">
+      <rect class="cls-132" x="16.65" y="12.09" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-23">
+      <rect class="cls-132" x="16.65" y="16.89" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-24">
+      <rect class="cls-132" x="16.65" y="21.69" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-25">
+      <rect class="cls-132" x="16.65" y="26.49" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-26">
+      <rect class="cls-132" x="16.65" y="31.29" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-27">
+      <rect class="cls-132" x="16.65" y="36.09" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-28">
+      <rect class="cls-132" x="11.85" y="-2.31" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-29">
+      <rect class="cls-132" x="11.85" y="2.49" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-30">
+      <rect class="cls-132" x="11.85" y="7.29" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-31">
+      <rect class="cls-132" x="11.85" y="12.09" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-32">
+      <rect class="cls-132" x="11.85" y="16.89" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-33">
+      <rect class="cls-132" x="11.85" y="21.69" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-34">
+      <rect class="cls-132" x="11.85" y="26.49" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-35">
+      <rect class="cls-132" x="11.85" y="31.29" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-36">
+      <rect class="cls-132" x="11.85" y="36.09" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-37">
+      <rect class="cls-132" x="7.05" y="-2.31" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-38">
+      <rect class="cls-132" x="7.05" y="2.49" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-39">
+      <rect class="cls-132" x="7.05" y="7.29" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-40">
+      <rect class="cls-132" x="7.05" y="12.09" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-41">
+      <rect class="cls-132" x="7.05" y="16.89" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-42">
+      <rect class="cls-132" x="7.05" y="21.69" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-43">
+      <rect class="cls-132" x="7.05" y="26.49" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-44">
+      <rect class="cls-132" x="7.05" y="31.29" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-45">
+      <rect class="cls-132" x="7.05" y="36.09" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-46">
+      <rect class="cls-132" x="2.25" y="-2.31" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-47">
+      <rect class="cls-132" x="2.25" y="2.49" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-48">
+      <rect class="cls-132" x="2.25" y="7.29" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-49">
+      <rect class="cls-132" x="2.25" y="12.09" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-50">
+      <rect class="cls-132" x="2.25" y="16.89" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-51">
+      <rect class="cls-132" x="2.25" y="21.69" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-52">
+      <rect class="cls-132" x="2.25" y="26.49" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-53">
+      <rect class="cls-132" x="2.25" y="31.29" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-54">
+      <rect class="cls-132" x="2.25" y="36.09" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-55">
+      <rect class="cls-132" x="-2.55" y="-2.31" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-56">
+      <rect class="cls-132" x="-2.55" y="2.49" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-57">
+      <rect class="cls-132" x="-2.55" y="7.29" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-58">
+      <rect class="cls-132" x="-2.55" y="12.09" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-59">
+      <rect class="cls-132" x="-2.55" y="16.89" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-60">
+      <rect class="cls-132" x="-2.55" y="21.69" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-61">
+      <rect class="cls-132" x="-2.55" y="26.49" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-62">
+      <rect class="cls-132" x="-2.55" y="31.29" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-63">
+      <rect class="cls-132" x="-2.55" y="36.09" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-64">
+      <rect class="cls-1" x=".5" y=".5" width="29.36" height="38.67" rx="2" ry="2"/>
+    </clipPath>
+    <clipPath id="clippath-65">
+      <rect class="cls-1" x="26.25" y="-2.81" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-66">
+      <rect class="cls-1" x="26.25" y="1.99" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-67">
+      <rect class="cls-1" x="26.25" y="6.79" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-68">
+      <rect class="cls-1" x="26.25" y="11.59" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-69">
+      <rect class="cls-1" x="26.25" y="16.39" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-70">
+      <rect class="cls-1" x="26.25" y="21.19" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-71">
+      <rect class="cls-1" x="26.25" y="25.99" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-72">
+      <rect class="cls-1" x="26.25" y="30.79" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-73">
+      <rect class="cls-1" x="26.25" y="35.59" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-74">
+      <rect class="cls-1" x="21.45" y="-2.81" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-75">
+      <rect class="cls-1" x="21.45" y="1.99" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-76">
+      <rect class="cls-1" x="21.45" y="6.79" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-77">
+      <rect class="cls-1" x="21.45" y="11.59" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-78">
+      <rect class="cls-1" x="21.45" y="16.39" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-79">
+      <rect class="cls-1" x="21.45" y="21.19" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-80">
+      <rect class="cls-1" x="21.45" y="25.99" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-81">
+      <rect class="cls-1" x="21.45" y="30.79" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-82">
+      <rect class="cls-1" x="21.45" y="35.59" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-83">
+      <rect class="cls-1" x="16.65" y="-2.81" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-84">
+      <rect class="cls-1" x="16.65" y="1.99" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-85">
+      <rect class="cls-1" x="16.65" y="6.79" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-86">
+      <rect class="cls-1" x="16.65" y="11.59" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-87">
+      <rect class="cls-1" x="16.65" y="16.39" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-88">
+      <rect class="cls-1" x="16.65" y="21.19" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-89">
+      <rect class="cls-1" x="16.65" y="25.99" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-90">
+      <rect class="cls-1" x="16.65" y="30.79" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-91">
+      <rect class="cls-1" x="16.65" y="35.59" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-92">
+      <rect class="cls-1" x="11.85" y="-2.81" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-93">
+      <rect class="cls-1" x="11.85" y="1.99" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-94">
+      <rect class="cls-1" x="11.85" y="6.79" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-95">
+      <rect class="cls-1" x="11.85" y="11.59" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-96">
+      <rect class="cls-1" x="11.85" y="16.39" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-97">
+      <rect class="cls-1" x="11.85" y="21.19" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-98">
+      <rect class="cls-1" x="11.85" y="25.99" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-99">
+      <rect class="cls-1" x="11.85" y="30.79" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-100">
+      <rect class="cls-1" x="11.85" y="35.59" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-101">
+      <rect class="cls-1" x="7.05" y="-2.81" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-102">
+      <rect class="cls-1" x="7.05" y="1.99" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-103">
+      <rect class="cls-1" x="7.05" y="6.79" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-104">
+      <rect class="cls-1" x="7.05" y="11.59" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-105">
+      <rect class="cls-1" x="7.05" y="16.39" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-106">
+      <rect class="cls-1" x="7.05" y="21.19" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-107">
+      <rect class="cls-1" x="7.05" y="25.99" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-108">
+      <rect class="cls-1" x="7.05" y="30.79" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-109">
+      <rect class="cls-1" x="7.05" y="35.59" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-110">
+      <rect class="cls-1" x="2.25" y="-2.81" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-111">
+      <rect class="cls-1" x="2.25" y="1.99" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-112">
+      <rect class="cls-1" x="2.25" y="6.79" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-113">
+      <rect class="cls-1" x="2.25" y="11.59" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-114">
+      <rect class="cls-1" x="2.25" y="16.39" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-115">
+      <rect class="cls-1" x="2.25" y="21.19" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-116">
+      <rect class="cls-1" x="2.25" y="25.99" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-117">
+      <rect class="cls-1" x="2.25" y="30.79" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-118">
+      <rect class="cls-1" x="2.25" y="35.59" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-119">
+      <rect class="cls-1" x="-2.55" y="-2.81" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-120">
+      <rect class="cls-1" x="-2.55" y="1.99" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-121">
+      <rect class="cls-1" x="-2.55" y="6.79" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-122">
+      <rect class="cls-1" x="-2.55" y="11.59" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-123">
+      <rect class="cls-1" x="-2.55" y="16.39" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-124">
+      <rect class="cls-1" x="-2.55" y="21.19" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-125">
+      <rect class="cls-1" x="-2.55" y="25.99" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-126">
+      <rect class="cls-1" x="-2.55" y="30.79" width="4.8" height="4.8"/>
+    </clipPath>
+    <clipPath id="clippath-127">
+      <rect class="cls-1" x="-2.55" y="35.59" width="4.8" height="4.8"/>
+    </clipPath>
+    <pattern id="_10_dpi_30_" data-name="10 dpi 30%" x="0" y="0" width="28.8" height="28.8" patternTransform="translate(-7259.25 -7449.73) scale(.1)" patternUnits="userSpaceOnUse" viewBox="0 0 28.8 28.8">
+      <g>
+        <rect class="cls-1" x="0" y="0" width="28.8" height="28.8"/>
+        <g>
+          <path class="cls-134" d="m28.8,30.96c1.19,0,2.16-.97,2.16-2.16s-.97-2.16-2.16-2.16-2.16.97-2.16,2.16.97,2.16,2.16,2.16Z"/>
+          <path class="cls-134" d="m14.4,30.96c1.19,0,2.16-.97,2.16-2.16s-.97-2.16-2.16-2.16-2.16.97-2.16,2.16.97,2.16,2.16,2.16Z"/>
+          <path class="cls-134" d="m28.8,16.56c1.19,0,2.16-.97,2.16-2.16s-.97-2.16-2.16-2.16-2.16.97-2.16,2.16.97,2.16,2.16,2.16Z"/>
+          <path class="cls-134" d="m14.4,16.56c1.19,0,2.16-.97,2.16-2.16s-.97-2.16-2.16-2.16-2.16.97-2.16,2.16.97,2.16,2.16,2.16Z"/>
+          <path class="cls-134" d="m7.2,23.76c1.19,0,2.16-.97,2.16-2.16s-.97-2.16-2.16-2.16-2.16.97-2.16,2.16.97,2.16,2.16,2.16Z"/>
+          <path class="cls-134" d="m21.6,23.76c1.19,0,2.16-.97,2.16-2.16s-.97-2.16-2.16-2.16-2.16.97-2.16,2.16.97,2.16,2.16,2.16Z"/>
+          <path class="cls-134" d="m7.2,9.36c1.19,0,2.16-.97,2.16-2.16s-.97-2.16-2.16-2.16-2.16.97-2.16,2.16.97,2.16,2.16,2.16Z"/>
+          <path class="cls-134" d="m21.6,9.36c1.19,0,2.16-.97,2.16-2.16s-.97-2.16-2.16-2.16-2.16.97-2.16,2.16.97,2.16,2.16,2.16Z"/>
+        </g>
+        <g>
+          <path class="cls-134" d="m0,30.96c1.19,0,2.16-.97,2.16-2.16s-.97-2.16-2.16-2.16-2.16.97-2.16,2.16.97,2.16,2.16,2.16Z"/>
+          <path class="cls-134" d="m0,16.56c1.19,0,2.16-.97,2.16-2.16s-.97-2.16-2.16-2.16-2.16.97-2.16,2.16.97,2.16,2.16,2.16Z"/>
+        </g>
+        <g>
+          <path class="cls-134" d="m28.8,2.16c1.19,0,2.16-.97,2.16-2.16s-.97-2.16-2.16-2.16-2.16.97-2.16,2.16.97,2.16,2.16,2.16Z"/>
+          <path class="cls-134" d="m14.4,2.16c1.19,0,2.16-.97,2.16-2.16s-.97-2.16-2.16-2.16-2.16.97-2.16,2.16.97,2.16,2.16,2.16Z"/>
+        </g>
+        <path class="cls-134" d="m0,2.16c1.19,0,2.16-.97,2.16-2.16S1.19-2.16,0-2.16-2.16-1.19-2.16,0-1.19,2.16,0,2.16Z"/>
+      </g>
+    </pattern>
+  </defs>
+  <g id="Laag_1-2" data-name="Laag 1">
+    <g>
+      <g>
+        <rect class="cls-132" x=".5" y="1" width="29.36" height="38.67" rx="2" ry="2"/>
+        <g class="cls-102">
+          <g>
+            <rect class="cls-132" x="26.25" y="-2.31" width="4.8" height="4.8"/>
+            <g class="cls-10">
+              <g>
+                <circle class="cls-132" cx="28.65" cy="2.49" r=".96"/>
+                <circle class="cls-132" cx="31.05" cy="2.49" r=".96"/>
+                <circle class="cls-132" cx="28.65" cy=".09" r=".96"/>
+                <circle class="cls-132" cx="31.05" cy=".09" r=".96"/>
+                <circle class="cls-132" cx="29.85" cy="1.29" r=".96"/>
+                <circle class="cls-132" cx="27.45" cy="1.29" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="26.25" cy="2.49" r=".96"/>
+                <circle class="cls-132" cx="26.25" cy=".09" r=".96"/>
+              </g>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="26.25" y="2.49" width="4.8" height="4.8"/>
+            <g class="cls-9">
+              <g>
+                <circle class="cls-132" cx="28.65" cy="7.29" r=".96"/>
+                <circle class="cls-132" cx="31.05" cy="7.29" r=".96"/>
+                <circle class="cls-132" cx="28.65" cy="4.89" r=".96"/>
+                <circle class="cls-132" cx="31.05" cy="4.89" r=".96"/>
+                <circle class="cls-132" cx="29.85" cy="6.09" r=".96"/>
+                <circle class="cls-132" cx="27.45" cy="6.09" r=".96"/>
+                <circle class="cls-132" cx="29.85" cy="3.69" r=".96"/>
+                <circle class="cls-132" cx="27.45" cy="3.69" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="26.25" cy="7.29" r=".96"/>
+                <circle class="cls-132" cx="26.25" cy="4.89" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="28.65" cy="2.49" r=".96"/>
+                <circle class="cls-132" cx="31.05" cy="2.49" r=".96"/>
+              </g>
+              <circle class="cls-132" cx="26.25" cy="2.49" r=".96"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="26.25" y="7.29" width="4.8" height="4.8"/>
+            <g class="cls-7">
+              <g>
+                <circle class="cls-132" cx="28.65" cy="12.09" r=".96"/>
+                <circle class="cls-132" cx="31.05" cy="12.09" r=".96"/>
+                <circle class="cls-132" cx="28.65" cy="9.69" r=".96"/>
+                <circle class="cls-132" cx="31.05" cy="9.69" r=".96"/>
+                <circle class="cls-132" cx="29.85" cy="10.89" r=".96"/>
+                <circle class="cls-132" cx="27.45" cy="10.89" r=".96"/>
+                <circle class="cls-132" cx="29.85" cy="8.49" r=".96"/>
+                <circle class="cls-132" cx="27.45" cy="8.49" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="26.25" cy="12.09" r=".96"/>
+                <circle class="cls-132" cx="26.25" cy="9.69" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="28.65" cy="7.29" r=".96"/>
+                <circle class="cls-132" cx="31.05" cy="7.29" r=".96"/>
+              </g>
+              <circle class="cls-132" cx="26.25" cy="7.29" r=".96"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="26.25" y="12.09" width="4.8" height="4.8"/>
+            <g class="cls-8">
+              <g>
+                <circle class="cls-132" cx="28.65" cy="16.89" r=".96"/>
+                <circle class="cls-132" cx="31.05" cy="16.89" r=".96"/>
+                <circle class="cls-132" cx="28.65" cy="14.49" r=".96"/>
+                <circle class="cls-132" cx="31.05" cy="14.49" r=".96"/>
+                <circle class="cls-132" cx="29.85" cy="15.69" r=".96"/>
+                <circle class="cls-132" cx="27.45" cy="15.69" r=".96"/>
+                <circle class="cls-132" cx="29.85" cy="13.29" r=".96"/>
+                <circle class="cls-132" cx="27.45" cy="13.29" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="26.25" cy="16.89" r=".96"/>
+                <circle class="cls-132" cx="26.25" cy="14.49" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="28.65" cy="12.09" r=".96"/>
+                <circle class="cls-132" cx="31.05" cy="12.09" r=".96"/>
+              </g>
+              <circle class="cls-132" cx="26.25" cy="12.09" r=".96"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="26.25" y="16.89" width="4.8" height="4.8"/>
+            <g class="cls-6">
+              <g>
+                <circle class="cls-132" cx="28.65" cy="21.69" r=".96"/>
+                <circle class="cls-132" cx="31.05" cy="21.69" r=".96"/>
+                <circle class="cls-132" cx="28.65" cy="19.29" r=".96"/>
+                <circle class="cls-132" cx="31.05" cy="19.29" r=".96"/>
+                <circle class="cls-132" cx="29.85" cy="20.49" r=".96"/>
+                <circle class="cls-132" cx="27.45" cy="20.49" r=".96"/>
+                <circle class="cls-132" cx="29.85" cy="18.09" r=".96"/>
+                <circle class="cls-132" cx="27.45" cy="18.09" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="26.25" cy="21.69" r=".96"/>
+                <circle class="cls-132" cx="26.25" cy="19.29" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="28.65" cy="16.89" r=".96"/>
+                <circle class="cls-132" cx="31.05" cy="16.89" r=".96"/>
+              </g>
+              <circle class="cls-132" cx="26.25" cy="16.89" r=".96"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="26.25" y="21.69" width="4.8" height="4.8"/>
+            <g class="cls-4">
+              <g>
+                <circle class="cls-132" cx="28.65" cy="26.49" r=".96"/>
+                <circle class="cls-132" cx="31.05" cy="26.49" r=".96"/>
+                <circle class="cls-132" cx="28.65" cy="24.09" r=".96"/>
+                <circle class="cls-132" cx="31.05" cy="24.09" r=".96"/>
+                <circle class="cls-132" cx="29.85" cy="25.29" r=".96"/>
+                <circle class="cls-132" cx="27.45" cy="25.29" r=".96"/>
+                <circle class="cls-132" cx="29.85" cy="22.89" r=".96"/>
+                <circle class="cls-132" cx="27.45" cy="22.89" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="26.25" cy="26.49" r=".96"/>
+                <circle class="cls-132" cx="26.25" cy="24.09" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="28.65" cy="21.69" r=".96"/>
+                <circle class="cls-132" cx="31.05" cy="21.69" r=".96"/>
+              </g>
+              <circle class="cls-132" cx="26.25" cy="21.69" r=".96"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="26.25" y="26.49" width="4.8" height="4.8"/>
+            <g class="cls-3">
+              <g>
+                <circle class="cls-132" cx="28.65" cy="31.29" r=".96"/>
+                <circle class="cls-132" cx="31.05" cy="31.29" r=".96"/>
+                <circle class="cls-132" cx="28.65" cy="28.89" r=".96"/>
+                <circle class="cls-132" cx="31.05" cy="28.89" r=".96"/>
+                <circle class="cls-132" cx="29.85" cy="30.09" r=".96"/>
+                <circle class="cls-132" cx="27.45" cy="30.09" r=".96"/>
+                <circle class="cls-132" cx="29.85" cy="27.69" r=".96"/>
+                <circle class="cls-132" cx="27.45" cy="27.69" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="26.25" cy="31.29" r=".96"/>
+                <circle class="cls-132" cx="26.25" cy="28.89" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="28.65" cy="26.49" r=".96"/>
+                <circle class="cls-132" cx="31.05" cy="26.49" r=".96"/>
+              </g>
+              <circle class="cls-132" cx="26.25" cy="26.49" r=".96"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="26.25" y="31.29" width="4.8" height="4.8"/>
+            <g class="cls-2">
+              <g>
+                <circle class="cls-132" cx="28.65" cy="36.09" r=".96"/>
+                <circle class="cls-132" cx="31.05" cy="36.09" r=".96"/>
+                <circle class="cls-132" cx="28.65" cy="33.69" r=".96"/>
+                <circle class="cls-132" cx="31.05" cy="33.69" r=".96"/>
+                <circle class="cls-132" cx="29.85" cy="34.89" r=".96"/>
+                <circle class="cls-132" cx="27.45" cy="34.89" r=".96"/>
+                <circle class="cls-132" cx="29.85" cy="32.49" r=".96"/>
+                <circle class="cls-132" cx="27.45" cy="32.49" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="26.25" cy="36.09" r=".96"/>
+                <circle class="cls-132" cx="26.25" cy="33.69" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="28.65" cy="31.29" r=".96"/>
+                <circle class="cls-132" cx="31.05" cy="31.29" r=".96"/>
+              </g>
+              <circle class="cls-132" cx="26.25" cy="31.29" r=".96"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="26.25" y="36.09" width="4.8" height="4.8"/>
+            <g class="cls-5">
+              <g>
+                <circle class="cls-132" cx="28.65" cy="40.89" r=".96"/>
+                <circle class="cls-132" cx="31.05" cy="40.89" r=".96"/>
+                <circle class="cls-132" cx="28.65" cy="38.49" r=".96"/>
+                <circle class="cls-132" cx="31.05" cy="38.49" r=".96"/>
+                <circle class="cls-132" cx="29.85" cy="39.69" r=".96"/>
+                <circle class="cls-132" cx="27.45" cy="39.69" r=".96"/>
+                <circle class="cls-132" cx="29.85" cy="37.29" r=".96"/>
+                <circle class="cls-132" cx="27.45" cy="37.29" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="26.25" cy="40.89" r=".96"/>
+                <circle class="cls-132" cx="26.25" cy="38.49" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="28.65" cy="36.09" r=".96"/>
+                <circle class="cls-132" cx="31.05" cy="36.09" r=".96"/>
+              </g>
+              <circle class="cls-132" cx="26.25" cy="36.09" r=".96"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="21.45" y="-2.31" width="4.8" height="4.8"/>
+            <g class="cls-19">
+              <g>
+                <circle class="cls-132" cx="23.85" cy="2.49" r=".96"/>
+                <circle class="cls-132" cx="26.25" cy="2.49" r=".96"/>
+                <circle class="cls-132" cx="23.85" cy=".09" r=".96"/>
+                <circle class="cls-132" cx="26.25" cy=".09" r=".96"/>
+                <circle class="cls-132" cx="25.05" cy="1.29" r=".96"/>
+                <circle class="cls-132" cx="22.65" cy="1.29" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="21.45" cy="2.49" r=".96"/>
+                <circle class="cls-132" cx="21.45" cy=".09" r=".96"/>
+              </g>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="21.45" y="2.49" width="4.8" height="4.8"/>
+            <g class="cls-14">
+              <g>
+                <circle class="cls-132" cx="23.85" cy="7.29" r=".96"/>
+                <circle class="cls-132" cx="26.25" cy="7.29" r=".96"/>
+                <circle class="cls-132" cx="23.85" cy="4.89" r=".96"/>
+                <circle class="cls-132" cx="26.25" cy="4.89" r=".96"/>
+                <circle class="cls-132" cx="25.05" cy="6.09" r=".96"/>
+                <circle class="cls-132" cx="22.65" cy="6.09" r=".96"/>
+                <circle class="cls-132" cx="25.05" cy="3.69" r=".96"/>
+                <circle class="cls-132" cx="22.65" cy="3.69" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="21.45" cy="7.29" r=".96"/>
+                <circle class="cls-132" cx="21.45" cy="4.89" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="23.85" cy="2.49" r=".96"/>
+                <circle class="cls-132" cx="26.25" cy="2.49" r=".96"/>
+              </g>
+              <circle class="cls-132" cx="21.45" cy="2.49" r=".96"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="21.45" y="7.29" width="4.8" height="4.8"/>
+            <g class="cls-13">
+              <g>
+                <circle class="cls-132" cx="23.85" cy="12.09" r=".96"/>
+                <circle class="cls-132" cx="26.25" cy="12.09" r=".96"/>
+                <circle class="cls-132" cx="23.85" cy="9.69" r=".96"/>
+                <circle class="cls-132" cx="26.25" cy="9.69" r=".96"/>
+                <circle class="cls-132" cx="25.05" cy="10.89" r=".96"/>
+                <circle class="cls-132" cx="22.65" cy="10.89" r=".96"/>
+                <circle class="cls-132" cx="25.05" cy="8.49" r=".96"/>
+                <circle class="cls-132" cx="22.65" cy="8.49" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="21.45" cy="12.09" r=".96"/>
+                <circle class="cls-132" cx="21.45" cy="9.69" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="23.85" cy="7.29" r=".96"/>
+                <circle class="cls-132" cx="26.25" cy="7.29" r=".96"/>
+              </g>
+              <circle class="cls-132" cx="21.45" cy="7.29" r=".96"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="21.45" y="12.09" width="4.8" height="4.8"/>
+            <g class="cls-11">
+              <g>
+                <circle class="cls-132" cx="23.85" cy="16.89" r=".96"/>
+                <circle class="cls-132" cx="26.25" cy="16.89" r=".96"/>
+                <circle class="cls-132" cx="23.85" cy="14.49" r=".96"/>
+                <circle class="cls-132" cx="26.25" cy="14.49" r=".96"/>
+                <circle class="cls-132" cx="25.05" cy="15.69" r=".96"/>
+                <circle class="cls-132" cx="22.65" cy="15.69" r=".96"/>
+                <circle class="cls-132" cx="25.05" cy="13.29" r=".96"/>
+                <circle class="cls-132" cx="22.65" cy="13.29" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="21.45" cy="16.89" r=".96"/>
+                <circle class="cls-132" cx="21.45" cy="14.49" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="23.85" cy="12.09" r=".96"/>
+                <circle class="cls-132" cx="26.25" cy="12.09" r=".96"/>
+              </g>
+              <circle class="cls-132" cx="21.45" cy="12.09" r=".96"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="21.45" y="16.89" width="4.8" height="4.8"/>
+            <g class="cls-12">
+              <g>
+                <circle class="cls-132" cx="23.85" cy="21.69" r=".96"/>
+                <circle class="cls-132" cx="26.25" cy="21.69" r=".96"/>
+                <circle class="cls-132" cx="23.85" cy="19.29" r=".96"/>
+                <circle class="cls-132" cx="26.25" cy="19.29" r=".96"/>
+                <circle class="cls-132" cx="25.05" cy="20.49" r=".96"/>
+                <circle class="cls-132" cx="22.65" cy="20.49" r=".96"/>
+                <circle class="cls-132" cx="25.05" cy="18.09" r=".96"/>
+                <circle class="cls-132" cx="22.65" cy="18.09" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="21.45" cy="21.69" r=".96"/>
+                <circle class="cls-132" cx="21.45" cy="19.29" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="23.85" cy="16.89" r=".96"/>
+                <circle class="cls-132" cx="26.25" cy="16.89" r=".96"/>
+              </g>
+              <circle class="cls-132" cx="21.45" cy="16.89" r=".96"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="21.45" y="21.69" width="4.8" height="4.8"/>
+            <g class="cls-20">
+              <g>
+                <circle class="cls-132" cx="23.85" cy="26.49" r=".96"/>
+                <circle class="cls-132" cx="26.25" cy="26.49" r=".96"/>
+                <circle class="cls-132" cx="23.85" cy="24.09" r=".96"/>
+                <circle class="cls-132" cx="26.25" cy="24.09" r=".96"/>
+                <circle class="cls-132" cx="25.05" cy="25.29" r=".96"/>
+                <circle class="cls-132" cx="22.65" cy="25.29" r=".96"/>
+                <circle class="cls-132" cx="25.05" cy="22.89" r=".96"/>
+                <circle class="cls-132" cx="22.65" cy="22.89" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="21.45" cy="26.49" r=".96"/>
+                <circle class="cls-132" cx="21.45" cy="24.09" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="23.85" cy="21.69" r=".96"/>
+                <circle class="cls-132" cx="26.25" cy="21.69" r=".96"/>
+              </g>
+              <circle class="cls-132" cx="21.45" cy="21.69" r=".96"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="21.45" y="26.49" width="4.8" height="4.8"/>
+            <g class="cls-18">
+              <g>
+                <circle class="cls-132" cx="23.85" cy="31.29" r=".96"/>
+                <circle class="cls-132" cx="26.25" cy="31.29" r=".96"/>
+                <circle class="cls-132" cx="23.85" cy="28.89" r=".96"/>
+                <circle class="cls-132" cx="26.25" cy="28.89" r=".96"/>
+                <circle class="cls-132" cx="25.05" cy="30.09" r=".96"/>
+                <circle class="cls-132" cx="22.65" cy="30.09" r=".96"/>
+                <circle class="cls-132" cx="25.05" cy="27.69" r=".96"/>
+                <circle class="cls-132" cx="22.65" cy="27.69" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="21.45" cy="31.29" r=".96"/>
+                <circle class="cls-132" cx="21.45" cy="28.89" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="23.85" cy="26.49" r=".96"/>
+                <circle class="cls-132" cx="26.25" cy="26.49" r=".96"/>
+              </g>
+              <circle class="cls-132" cx="21.45" cy="26.49" r=".96"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="21.45" y="31.29" width="4.8" height="4.8"/>
+            <g class="cls-17">
+              <g>
+                <circle class="cls-132" cx="23.85" cy="36.09" r=".96"/>
+                <circle class="cls-132" cx="26.25" cy="36.09" r=".96"/>
+                <circle class="cls-132" cx="23.85" cy="33.69" r=".96"/>
+                <circle class="cls-132" cx="26.25" cy="33.69" r=".96"/>
+                <circle class="cls-132" cx="25.05" cy="34.89" r=".96"/>
+                <circle class="cls-132" cx="22.65" cy="34.89" r=".96"/>
+                <circle class="cls-132" cx="25.05" cy="32.49" r=".96"/>
+                <circle class="cls-132" cx="22.65" cy="32.49" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="21.45" cy="36.09" r=".96"/>
+                <circle class="cls-132" cx="21.45" cy="33.69" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="23.85" cy="31.29" r=".96"/>
+                <circle class="cls-132" cx="26.25" cy="31.29" r=".96"/>
+              </g>
+              <circle class="cls-132" cx="21.45" cy="31.29" r=".96"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="21.45" y="36.09" width="4.8" height="4.8"/>
+            <g class="cls-15">
+              <g>
+                <circle class="cls-132" cx="23.85" cy="40.89" r=".96"/>
+                <circle class="cls-132" cx="26.25" cy="40.89" r=".96"/>
+                <circle class="cls-132" cx="23.85" cy="38.49" r=".96"/>
+                <circle class="cls-132" cx="26.25" cy="38.49" r=".96"/>
+                <circle class="cls-132" cx="25.05" cy="39.69" r=".96"/>
+                <circle class="cls-132" cx="22.65" cy="39.69" r=".96"/>
+                <circle class="cls-132" cx="25.05" cy="37.29" r=".96"/>
+                <circle class="cls-132" cx="22.65" cy="37.29" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="21.45" cy="40.89" r=".96"/>
+                <circle class="cls-132" cx="21.45" cy="38.49" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="23.85" cy="36.09" r=".96"/>
+                <circle class="cls-132" cx="26.25" cy="36.09" r=".96"/>
+              </g>
+              <circle class="cls-132" cx="21.45" cy="36.09" r=".96"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="16.65" y="-2.31" width="4.8" height="4.8"/>
+            <g class="cls-16">
+              <g>
+                <circle class="cls-132" cx="19.05" cy="2.49" r=".96"/>
+                <circle class="cls-132" cx="21.45" cy="2.49" r=".96"/>
+                <circle class="cls-132" cx="19.05" cy=".09" r=".96"/>
+                <circle class="cls-132" cx="21.45" cy=".09" r=".96"/>
+                <circle class="cls-132" cx="20.25" cy="1.29" r=".96"/>
+                <circle class="cls-132" cx="17.85" cy="1.29" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="16.65" cy="2.49" r=".96"/>
+                <circle class="cls-132" cx="16.65" cy=".09" r=".96"/>
+              </g>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="16.65" y="2.49" width="4.8" height="4.8"/>
+            <g class="cls-26">
+              <g>
+                <circle class="cls-132" cx="19.05" cy="7.29" r=".96"/>
+                <circle class="cls-132" cx="21.45" cy="7.29" r=".96"/>
+                <circle class="cls-132" cx="19.05" cy="4.89" r=".96"/>
+                <circle class="cls-132" cx="21.45" cy="4.89" r=".96"/>
+                <circle class="cls-132" cx="20.25" cy="6.09" r=".96"/>
+                <circle class="cls-132" cx="17.85" cy="6.09" r=".96"/>
+                <circle class="cls-132" cx="20.25" cy="3.69" r=".96"/>
+                <circle class="cls-132" cx="17.85" cy="3.69" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="16.65" cy="7.29" r=".96"/>
+                <circle class="cls-132" cx="16.65" cy="4.89" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="19.05" cy="2.49" r=".96"/>
+                <circle class="cls-132" cx="21.45" cy="2.49" r=".96"/>
+              </g>
+              <circle class="cls-132" cx="16.65" cy="2.49" r=".96"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="16.65" y="7.29" width="4.8" height="4.8"/>
+            <g class="cls-25">
+              <g>
+                <circle class="cls-132" cx="19.05" cy="12.09" r=".96"/>
+                <circle class="cls-132" cx="21.45" cy="12.09" r=".96"/>
+                <circle class="cls-132" cx="19.05" cy="9.69" r=".96"/>
+                <circle class="cls-132" cx="21.45" cy="9.69" r=".96"/>
+                <circle class="cls-132" cx="20.25" cy="10.89" r=".96"/>
+                <circle class="cls-132" cx="17.85" cy="10.89" r=".96"/>
+                <circle class="cls-132" cx="20.25" cy="8.49" r=".96"/>
+                <circle class="cls-132" cx="17.85" cy="8.49" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="16.65" cy="12.09" r=".96"/>
+                <circle class="cls-132" cx="16.65" cy="9.69" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="19.05" cy="7.29" r=".96"/>
+                <circle class="cls-132" cx="21.45" cy="7.29" r=".96"/>
+              </g>
+              <circle class="cls-132" cx="16.65" cy="7.29" r=".96"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="16.65" y="12.09" width="4.8" height="4.8"/>
+            <g class="cls-22">
+              <g>
+                <circle class="cls-132" cx="19.05" cy="16.89" r=".96"/>
+                <circle class="cls-132" cx="21.45" cy="16.89" r=".96"/>
+                <circle class="cls-132" cx="19.05" cy="14.49" r=".96"/>
+                <circle class="cls-132" cx="21.45" cy="14.49" r=".96"/>
+                <circle class="cls-132" cx="20.25" cy="15.69" r=".96"/>
+                <circle class="cls-132" cx="17.85" cy="15.69" r=".96"/>
+                <circle class="cls-132" cx="20.25" cy="13.29" r=".96"/>
+                <circle class="cls-132" cx="17.85" cy="13.29" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="16.65" cy="16.89" r=".96"/>
+                <circle class="cls-132" cx="16.65" cy="14.49" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="19.05" cy="12.09" r=".96"/>
+                <circle class="cls-132" cx="21.45" cy="12.09" r=".96"/>
+              </g>
+              <circle class="cls-132" cx="16.65" cy="12.09" r=".96"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="16.65" y="16.89" width="4.8" height="4.8"/>
+            <g class="cls-23">
+              <g>
+                <circle class="cls-132" cx="19.05" cy="21.69" r=".96"/>
+                <circle class="cls-132" cx="21.45" cy="21.69" r=".96"/>
+                <circle class="cls-132" cx="19.05" cy="19.29" r=".96"/>
+                <circle class="cls-132" cx="21.45" cy="19.29" r=".96"/>
+                <circle class="cls-132" cx="20.25" cy="20.49" r=".96"/>
+                <circle class="cls-132" cx="17.85" cy="20.49" r=".96"/>
+                <circle class="cls-132" cx="20.25" cy="18.09" r=".96"/>
+                <circle class="cls-132" cx="17.85" cy="18.09" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="16.65" cy="21.69" r=".96"/>
+                <circle class="cls-132" cx="16.65" cy="19.29" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="19.05" cy="16.89" r=".96"/>
+                <circle class="cls-132" cx="21.45" cy="16.89" r=".96"/>
+              </g>
+              <circle class="cls-132" cx="16.65" cy="16.89" r=".96"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="16.65" y="21.69" width="4.8" height="4.8"/>
+            <g class="cls-24">
+              <g>
+                <circle class="cls-132" cx="19.05" cy="26.49" r=".96"/>
+                <circle class="cls-132" cx="21.45" cy="26.49" r=".96"/>
+                <circle class="cls-132" cx="19.05" cy="24.09" r=".96"/>
+                <circle class="cls-132" cx="21.45" cy="24.09" r=".96"/>
+                <circle class="cls-132" cx="20.25" cy="25.29" r=".96"/>
+                <circle class="cls-132" cx="17.85" cy="25.29" r=".96"/>
+                <circle class="cls-132" cx="20.25" cy="22.89" r=".96"/>
+                <circle class="cls-132" cx="17.85" cy="22.89" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="16.65" cy="26.49" r=".96"/>
+                <circle class="cls-132" cx="16.65" cy="24.09" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="19.05" cy="21.69" r=".96"/>
+                <circle class="cls-132" cx="21.45" cy="21.69" r=".96"/>
+              </g>
+              <circle class="cls-132" cx="16.65" cy="21.69" r=".96"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="16.65" y="26.49" width="4.8" height="4.8"/>
+            <g class="cls-21">
+              <g>
+                <circle class="cls-132" cx="19.05" cy="31.29" r=".96"/>
+                <circle class="cls-132" cx="21.45" cy="31.29" r=".96"/>
+                <circle class="cls-132" cx="19.05" cy="28.89" r=".96"/>
+                <circle class="cls-132" cx="21.45" cy="28.89" r=".96"/>
+                <circle class="cls-132" cx="20.25" cy="30.09" r=".96"/>
+                <circle class="cls-132" cx="17.85" cy="30.09" r=".96"/>
+                <circle class="cls-132" cx="20.25" cy="27.69" r=".96"/>
+                <circle class="cls-132" cx="17.85" cy="27.69" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="16.65" cy="31.29" r=".96"/>
+                <circle class="cls-132" cx="16.65" cy="28.89" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="19.05" cy="26.49" r=".96"/>
+                <circle class="cls-132" cx="21.45" cy="26.49" r=".96"/>
+              </g>
+              <circle class="cls-132" cx="16.65" cy="26.49" r=".96"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="16.65" y="31.29" width="4.8" height="4.8"/>
+            <g class="cls-57">
+              <g>
+                <circle class="cls-132" cx="19.05" cy="36.09" r=".96"/>
+                <circle class="cls-132" cx="21.45" cy="36.09" r=".96"/>
+                <circle class="cls-132" cx="19.05" cy="33.69" r=".96"/>
+                <circle class="cls-132" cx="21.45" cy="33.69" r=".96"/>
+                <circle class="cls-132" cx="20.25" cy="34.89" r=".96"/>
+                <circle class="cls-132" cx="17.85" cy="34.89" r=".96"/>
+                <circle class="cls-132" cx="20.25" cy="32.49" r=".96"/>
+                <circle class="cls-132" cx="17.85" cy="32.49" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="16.65" cy="36.09" r=".96"/>
+                <circle class="cls-132" cx="16.65" cy="33.69" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="19.05" cy="31.29" r=".96"/>
+                <circle class="cls-132" cx="21.45" cy="31.29" r=".96"/>
+              </g>
+              <circle class="cls-132" cx="16.65" cy="31.29" r=".96"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="16.65" y="36.09" width="4.8" height="4.8"/>
+            <g class="cls-59">
+              <g>
+                <circle class="cls-132" cx="19.05" cy="40.89" r=".96"/>
+                <circle class="cls-132" cx="21.45" cy="40.89" r=".96"/>
+                <circle class="cls-132" cx="19.05" cy="38.49" r=".96"/>
+                <circle class="cls-132" cx="21.45" cy="38.49" r=".96"/>
+                <circle class="cls-132" cx="20.25" cy="39.69" r=".96"/>
+                <circle class="cls-132" cx="17.85" cy="39.69" r=".96"/>
+                <circle class="cls-132" cx="20.25" cy="37.29" r=".96"/>
+                <circle class="cls-132" cx="17.85" cy="37.29" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="16.65" cy="40.89" r=".96"/>
+                <circle class="cls-132" cx="16.65" cy="38.49" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="19.05" cy="36.09" r=".96"/>
+                <circle class="cls-132" cx="21.45" cy="36.09" r=".96"/>
+              </g>
+              <circle class="cls-132" cx="16.65" cy="36.09" r=".96"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="11.85" y="-2.31" width="4.8" height="4.8"/>
+            <g class="cls-58">
+              <g>
+                <circle class="cls-132" cx="14.25" cy="2.49" r=".96"/>
+                <circle class="cls-132" cx="16.65" cy="2.49" r=".96"/>
+                <circle class="cls-132" cx="14.25" cy=".09" r=".96"/>
+                <circle class="cls-132" cx="16.65" cy=".09" r=".96"/>
+                <circle class="cls-132" cx="15.45" cy="1.29" r=".96"/>
+                <circle class="cls-132" cx="13.05" cy="1.29" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="11.85" cy="2.49" r=".96"/>
+                <circle class="cls-132" cx="11.85" cy=".09" r=".96"/>
+              </g>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="11.85" y="2.49" width="4.8" height="4.8"/>
+            <g class="cls-56">
+              <g>
+                <circle class="cls-132" cx="14.25" cy="7.29" r=".96"/>
+                <circle class="cls-132" cx="16.65" cy="7.29" r=".96"/>
+                <circle class="cls-132" cx="14.25" cy="4.89" r=".96"/>
+                <circle class="cls-132" cx="16.65" cy="4.89" r=".96"/>
+                <circle class="cls-132" cx="15.45" cy="6.09" r=".96"/>
+                <circle class="cls-132" cx="13.05" cy="6.09" r=".96"/>
+                <circle class="cls-132" cx="15.45" cy="3.69" r=".96"/>
+                <circle class="cls-132" cx="13.05" cy="3.69" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="11.85" cy="7.29" r=".96"/>
+                <circle class="cls-132" cx="11.85" cy="4.89" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="14.25" cy="2.49" r=".96"/>
+                <circle class="cls-132" cx="16.65" cy="2.49" r=".96"/>
+              </g>
+              <circle class="cls-132" cx="11.85" cy="2.49" r=".96"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="11.85" y="7.29" width="4.8" height="4.8"/>
+            <g class="cls-49">
+              <g>
+                <circle class="cls-132" cx="14.25" cy="12.09" r=".96"/>
+                <circle class="cls-132" cx="16.65" cy="12.09" r=".96"/>
+                <circle class="cls-132" cx="14.25" cy="9.69" r=".96"/>
+                <circle class="cls-132" cx="16.65" cy="9.69" r=".96"/>
+                <circle class="cls-132" cx="15.45" cy="10.89" r=".96"/>
+                <circle class="cls-132" cx="13.05" cy="10.89" r=".96"/>
+                <circle class="cls-132" cx="15.45" cy="8.49" r=".96"/>
+                <circle class="cls-132" cx="13.05" cy="8.49" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="11.85" cy="12.09" r=".96"/>
+                <circle class="cls-132" cx="11.85" cy="9.69" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="14.25" cy="7.29" r=".96"/>
+                <circle class="cls-132" cx="16.65" cy="7.29" r=".96"/>
+              </g>
+              <circle class="cls-132" cx="11.85" cy="7.29" r=".96"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="11.85" y="12.09" width="4.8" height="4.8"/>
+            <g class="cls-68">
+              <g>
+                <circle class="cls-132" cx="14.25" cy="16.89" r=".96"/>
+                <circle class="cls-132" cx="16.65" cy="16.89" r=".96"/>
+                <circle class="cls-132" cx="14.25" cy="14.49" r=".96"/>
+                <circle class="cls-132" cx="16.65" cy="14.49" r=".96"/>
+                <circle class="cls-132" cx="15.45" cy="15.69" r=".96"/>
+                <circle class="cls-132" cx="13.05" cy="15.69" r=".96"/>
+                <circle class="cls-132" cx="15.45" cy="13.29" r=".96"/>
+                <circle class="cls-132" cx="13.05" cy="13.29" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="11.85" cy="16.89" r=".96"/>
+                <circle class="cls-132" cx="11.85" cy="14.49" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="14.25" cy="12.09" r=".96"/>
+                <circle class="cls-132" cx="16.65" cy="12.09" r=".96"/>
+              </g>
+              <circle class="cls-132" cx="11.85" cy="12.09" r=".96"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="11.85" y="16.89" width="4.8" height="4.8"/>
+            <g class="cls-50">
+              <g>
+                <circle class="cls-132" cx="14.25" cy="21.69" r=".96"/>
+                <circle class="cls-132" cx="16.65" cy="21.69" r=".96"/>
+                <circle class="cls-132" cx="14.25" cy="19.29" r=".96"/>
+                <circle class="cls-132" cx="16.65" cy="19.29" r=".96"/>
+                <circle class="cls-132" cx="15.45" cy="20.49" r=".96"/>
+                <circle class="cls-132" cx="13.05" cy="20.49" r=".96"/>
+                <circle class="cls-132" cx="15.45" cy="18.09" r=".96"/>
+                <circle class="cls-132" cx="13.05" cy="18.09" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="11.85" cy="21.69" r=".96"/>
+                <circle class="cls-132" cx="11.85" cy="19.29" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="14.25" cy="16.89" r=".96"/>
+                <circle class="cls-132" cx="16.65" cy="16.89" r=".96"/>
+              </g>
+              <circle class="cls-132" cx="11.85" cy="16.89" r=".96"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="11.85" y="21.69" width="4.8" height="4.8"/>
+            <g class="cls-51">
+              <g>
+                <circle class="cls-132" cx="14.25" cy="26.49" r=".96"/>
+                <circle class="cls-132" cx="16.65" cy="26.49" r=".96"/>
+                <circle class="cls-132" cx="14.25" cy="24.09" r=".96"/>
+                <circle class="cls-132" cx="16.65" cy="24.09" r=".96"/>
+                <circle class="cls-132" cx="15.45" cy="25.29" r=".96"/>
+                <circle class="cls-132" cx="13.05" cy="25.29" r=".96"/>
+                <circle class="cls-132" cx="15.45" cy="22.89" r=".96"/>
+                <circle class="cls-132" cx="13.05" cy="22.89" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="11.85" cy="26.49" r=".96"/>
+                <circle class="cls-132" cx="11.85" cy="24.09" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="14.25" cy="21.69" r=".96"/>
+                <circle class="cls-132" cx="16.65" cy="21.69" r=".96"/>
+              </g>
+              <circle class="cls-132" cx="11.85" cy="21.69" r=".96"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="11.85" y="26.49" width="4.8" height="4.8"/>
+            <g class="cls-48">
+              <g>
+                <circle class="cls-132" cx="14.25" cy="31.29" r=".96"/>
+                <circle class="cls-132" cx="16.65" cy="31.29" r=".96"/>
+                <circle class="cls-132" cx="14.25" cy="28.89" r=".96"/>
+                <circle class="cls-132" cx="16.65" cy="28.89" r=".96"/>
+                <circle class="cls-132" cx="15.45" cy="30.09" r=".96"/>
+                <circle class="cls-132" cx="13.05" cy="30.09" r=".96"/>
+                <circle class="cls-132" cx="15.45" cy="27.69" r=".96"/>
+                <circle class="cls-132" cx="13.05" cy="27.69" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="11.85" cy="31.29" r=".96"/>
+                <circle class="cls-132" cx="11.85" cy="28.89" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="14.25" cy="26.49" r=".96"/>
+                <circle class="cls-132" cx="16.65" cy="26.49" r=".96"/>
+              </g>
+              <circle class="cls-132" cx="11.85" cy="26.49" r=".96"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="11.85" y="31.29" width="4.8" height="4.8"/>
+            <g class="cls-52">
+              <g>
+                <circle class="cls-132" cx="14.25" cy="36.09" r=".96"/>
+                <circle class="cls-132" cx="16.65" cy="36.09" r=".96"/>
+                <circle class="cls-132" cx="14.25" cy="33.69" r=".96"/>
+                <circle class="cls-132" cx="16.65" cy="33.69" r=".96"/>
+                <circle class="cls-132" cx="15.45" cy="34.89" r=".96"/>
+                <circle class="cls-132" cx="13.05" cy="34.89" r=".96"/>
+                <circle class="cls-132" cx="15.45" cy="32.49" r=".96"/>
+                <circle class="cls-132" cx="13.05" cy="32.49" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="11.85" cy="36.09" r=".96"/>
+                <circle class="cls-132" cx="11.85" cy="33.69" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="14.25" cy="31.29" r=".96"/>
+                <circle class="cls-132" cx="16.65" cy="31.29" r=".96"/>
+              </g>
+              <circle class="cls-132" cx="11.85" cy="31.29" r=".96"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="11.85" y="36.09" width="4.8" height="4.8"/>
+            <g class="cls-53">
+              <g>
+                <circle class="cls-132" cx="14.25" cy="40.89" r=".96"/>
+                <circle class="cls-132" cx="16.65" cy="40.89" r=".96"/>
+                <circle class="cls-132" cx="14.25" cy="38.49" r=".96"/>
+                <circle class="cls-132" cx="16.65" cy="38.49" r=".96"/>
+                <circle class="cls-132" cx="15.45" cy="39.69" r=".96"/>
+                <circle class="cls-132" cx="13.05" cy="39.69" r=".96"/>
+                <circle class="cls-132" cx="15.45" cy="37.29" r=".96"/>
+                <circle class="cls-132" cx="13.05" cy="37.29" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="11.85" cy="40.89" r=".96"/>
+                <circle class="cls-132" cx="11.85" cy="38.49" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="14.25" cy="36.09" r=".96"/>
+                <circle class="cls-132" cx="16.65" cy="36.09" r=".96"/>
+              </g>
+              <circle class="cls-132" cx="11.85" cy="36.09" r=".96"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="7.05" y="-2.31" width="4.8" height="4.8"/>
+            <g class="cls-55">
+              <g>
+                <circle class="cls-132" cx="9.45" cy="2.49" r=".96"/>
+                <circle class="cls-132" cx="11.85" cy="2.49" r=".96"/>
+                <circle class="cls-132" cx="9.45" cy=".09" r=".96"/>
+                <circle class="cls-132" cx="11.85" cy=".09" r=".96"/>
+                <circle class="cls-132" cx="10.65" cy="1.29" r=".96"/>
+                <circle class="cls-132" cx="8.25" cy="1.29" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="7.05" cy="2.49" r=".96"/>
+                <circle class="cls-132" cx="7.05" cy=".09" r=".96"/>
+              </g>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="7.05" y="2.49" width="4.8" height="4.8"/>
+            <g class="cls-67">
+              <g>
+                <circle class="cls-132" cx="9.45" cy="7.29" r=".96"/>
+                <circle class="cls-132" cx="11.85" cy="7.29" r=".96"/>
+                <circle class="cls-132" cx="9.45" cy="4.89" r=".96"/>
+                <circle class="cls-132" cx="11.85" cy="4.89" r=".96"/>
+                <circle class="cls-132" cx="10.65" cy="6.09" r=".96"/>
+                <circle class="cls-132" cx="8.25" cy="6.09" r=".96"/>
+                <circle class="cls-132" cx="10.65" cy="3.69" r=".96"/>
+                <circle class="cls-132" cx="8.25" cy="3.69" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="7.05" cy="7.29" r=".96"/>
+                <circle class="cls-132" cx="7.05" cy="4.89" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="9.45" cy="2.49" r=".96"/>
+                <circle class="cls-132" cx="11.85" cy="2.49" r=".96"/>
+              </g>
+              <circle class="cls-132" cx="7.05" cy="2.49" r=".96"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="7.05" y="7.29" width="4.8" height="4.8"/>
+            <g class="cls-54">
+              <g>
+                <circle class="cls-132" cx="9.45" cy="12.09" r=".96"/>
+                <circle class="cls-132" cx="11.85" cy="12.09" r=".96"/>
+                <circle class="cls-132" cx="9.45" cy="9.69" r=".96"/>
+                <circle class="cls-132" cx="11.85" cy="9.69" r=".96"/>
+                <circle class="cls-132" cx="10.65" cy="10.89" r=".96"/>
+                <circle class="cls-132" cx="8.25" cy="10.89" r=".96"/>
+                <circle class="cls-132" cx="10.65" cy="8.49" r=".96"/>
+                <circle class="cls-132" cx="8.25" cy="8.49" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="7.05" cy="12.09" r=".96"/>
+                <circle class="cls-132" cx="7.05" cy="9.69" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="9.45" cy="7.29" r=".96"/>
+                <circle class="cls-132" cx="11.85" cy="7.29" r=".96"/>
+              </g>
+              <circle class="cls-132" cx="7.05" cy="7.29" r=".96"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="7.05" y="12.09" width="4.8" height="4.8"/>
+            <g class="cls-28">
+              <g>
+                <circle class="cls-132" cx="9.45" cy="16.89" r=".96"/>
+                <circle class="cls-132" cx="11.85" cy="16.89" r=".96"/>
+                <circle class="cls-132" cx="9.45" cy="14.49" r=".96"/>
+                <circle class="cls-132" cx="11.85" cy="14.49" r=".96"/>
+                <circle class="cls-132" cx="10.65" cy="15.69" r=".96"/>
+                <circle class="cls-132" cx="8.25" cy="15.69" r=".96"/>
+                <circle class="cls-132" cx="10.65" cy="13.29" r=".96"/>
+                <circle class="cls-132" cx="8.25" cy="13.29" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="7.05" cy="16.89" r=".96"/>
+                <circle class="cls-132" cx="7.05" cy="14.49" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="9.45" cy="12.09" r=".96"/>
+                <circle class="cls-132" cx="11.85" cy="12.09" r=".96"/>
+              </g>
+              <circle class="cls-132" cx="7.05" cy="12.09" r=".96"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="7.05" y="16.89" width="4.8" height="4.8"/>
+            <g class="cls-30">
+              <g>
+                <circle class="cls-132" cx="9.45" cy="21.69" r=".96"/>
+                <circle class="cls-132" cx="11.85" cy="21.69" r=".96"/>
+                <circle class="cls-132" cx="9.45" cy="19.29" r=".96"/>
+                <circle class="cls-132" cx="11.85" cy="19.29" r=".96"/>
+                <circle class="cls-132" cx="10.65" cy="20.49" r=".96"/>
+                <circle class="cls-132" cx="8.25" cy="20.49" r=".96"/>
+                <circle class="cls-132" cx="10.65" cy="18.09" r=".96"/>
+                <circle class="cls-132" cx="8.25" cy="18.09" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="7.05" cy="21.69" r=".96"/>
+                <circle class="cls-132" cx="7.05" cy="19.29" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="9.45" cy="16.89" r=".96"/>
+                <circle class="cls-132" cx="11.85" cy="16.89" r=".96"/>
+              </g>
+              <circle class="cls-132" cx="7.05" cy="16.89" r=".96"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="7.05" y="21.69" width="4.8" height="4.8"/>
+            <g class="cls-29">
+              <g>
+                <circle class="cls-132" cx="9.45" cy="26.49" r=".96"/>
+                <circle class="cls-132" cx="11.85" cy="26.49" r=".96"/>
+                <circle class="cls-132" cx="9.45" cy="24.09" r=".96"/>
+                <circle class="cls-132" cx="11.85" cy="24.09" r=".96"/>
+                <circle class="cls-132" cx="10.65" cy="25.29" r=".96"/>
+                <circle class="cls-132" cx="8.25" cy="25.29" r=".96"/>
+                <circle class="cls-132" cx="10.65" cy="22.89" r=".96"/>
+                <circle class="cls-132" cx="8.25" cy="22.89" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="7.05" cy="26.49" r=".96"/>
+                <circle class="cls-132" cx="7.05" cy="24.09" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="9.45" cy="21.69" r=".96"/>
+                <circle class="cls-132" cx="11.85" cy="21.69" r=".96"/>
+              </g>
+              <circle class="cls-132" cx="7.05" cy="21.69" r=".96"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="7.05" y="26.49" width="4.8" height="4.8"/>
+            <g class="cls-32">
+              <g>
+                <circle class="cls-132" cx="9.45" cy="31.29" r=".96"/>
+                <circle class="cls-132" cx="11.85" cy="31.29" r=".96"/>
+                <circle class="cls-132" cx="9.45" cy="28.89" r=".96"/>
+                <circle class="cls-132" cx="11.85" cy="28.89" r=".96"/>
+                <circle class="cls-132" cx="10.65" cy="30.09" r=".96"/>
+                <circle class="cls-132" cx="8.25" cy="30.09" r=".96"/>
+                <circle class="cls-132" cx="10.65" cy="27.69" r=".96"/>
+                <circle class="cls-132" cx="8.25" cy="27.69" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="7.05" cy="31.29" r=".96"/>
+                <circle class="cls-132" cx="7.05" cy="28.89" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="9.45" cy="26.49" r=".96"/>
+                <circle class="cls-132" cx="11.85" cy="26.49" r=".96"/>
+              </g>
+              <circle class="cls-132" cx="7.05" cy="26.49" r=".96"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="7.05" y="31.29" width="4.8" height="4.8"/>
+            <g class="cls-31">
+              <g>
+                <circle class="cls-132" cx="9.45" cy="36.09" r=".96"/>
+                <circle class="cls-132" cx="11.85" cy="36.09" r=".96"/>
+                <circle class="cls-132" cx="9.45" cy="33.69" r=".96"/>
+                <circle class="cls-132" cx="11.85" cy="33.69" r=".96"/>
+                <circle class="cls-132" cx="10.65" cy="34.89" r=".96"/>
+                <circle class="cls-132" cx="8.25" cy="34.89" r=".96"/>
+                <circle class="cls-132" cx="10.65" cy="32.49" r=".96"/>
+                <circle class="cls-132" cx="8.25" cy="32.49" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="7.05" cy="36.09" r=".96"/>
+                <circle class="cls-132" cx="7.05" cy="33.69" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="9.45" cy="31.29" r=".96"/>
+                <circle class="cls-132" cx="11.85" cy="31.29" r=".96"/>
+              </g>
+              <circle class="cls-132" cx="7.05" cy="31.29" r=".96"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="7.05" y="36.09" width="4.8" height="4.8"/>
+            <g class="cls-27">
+              <g>
+                <circle class="cls-132" cx="9.45" cy="40.89" r=".96"/>
+                <circle class="cls-132" cx="11.85" cy="40.89" r=".96"/>
+                <circle class="cls-132" cx="9.45" cy="38.49" r=".96"/>
+                <circle class="cls-132" cx="11.85" cy="38.49" r=".96"/>
+                <circle class="cls-132" cx="10.65" cy="39.69" r=".96"/>
+                <circle class="cls-132" cx="8.25" cy="39.69" r=".96"/>
+                <circle class="cls-132" cx="10.65" cy="37.29" r=".96"/>
+                <circle class="cls-132" cx="8.25" cy="37.29" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="7.05" cy="40.89" r=".96"/>
+                <circle class="cls-132" cx="7.05" cy="38.49" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="9.45" cy="36.09" r=".96"/>
+                <circle class="cls-132" cx="11.85" cy="36.09" r=".96"/>
+              </g>
+              <circle class="cls-132" cx="7.05" cy="36.09" r=".96"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="2.25" y="-2.31" width="4.8" height="4.8"/>
+            <g class="cls-33">
+              <g>
+                <circle class="cls-132" cx="4.65" cy="2.49" r=".96"/>
+                <circle class="cls-132" cx="7.05" cy="2.49" r=".96"/>
+                <circle class="cls-132" cx="4.65" cy=".09" r=".96"/>
+                <circle class="cls-132" cx="7.05" cy=".09" r=".96"/>
+                <circle class="cls-132" cx="5.85" cy="1.29" r=".96"/>
+                <circle class="cls-132" cx="3.45" cy="1.29" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="2.25" cy="2.49" r=".96"/>
+                <circle class="cls-132" cx="2.25" cy=".09" r=".96"/>
+              </g>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="2.25" y="2.49" width="4.8" height="4.8"/>
+            <g class="cls-34">
+              <g>
+                <circle class="cls-132" cx="4.65" cy="7.29" r=".96"/>
+                <circle class="cls-132" cx="7.05" cy="7.29" r=".96"/>
+                <circle class="cls-132" cx="4.65" cy="4.89" r=".96"/>
+                <circle class="cls-132" cx="7.05" cy="4.89" r=".96"/>
+                <circle class="cls-132" cx="5.85" cy="6.09" r=".96"/>
+                <circle class="cls-132" cx="3.45" cy="6.09" r=".96"/>
+                <circle class="cls-132" cx="5.85" cy="3.69" r=".96"/>
+                <circle class="cls-132" cx="3.45" cy="3.69" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="2.25" cy="7.29" r=".96"/>
+                <circle class="cls-132" cx="2.25" cy="4.89" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="4.65" cy="2.49" r=".96"/>
+                <circle class="cls-132" cx="7.05" cy="2.49" r=".96"/>
+              </g>
+              <circle class="cls-132" cx="2.25" cy="2.49" r=".96"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="2.25" y="7.29" width="4.8" height="4.8"/>
+            <g class="cls-36">
+              <g>
+                <circle class="cls-132" cx="4.65" cy="12.09" r=".96"/>
+                <circle class="cls-132" cx="7.05" cy="12.09" r=".96"/>
+                <circle class="cls-132" cx="4.65" cy="9.69" r=".96"/>
+                <circle class="cls-132" cx="7.05" cy="9.69" r=".96"/>
+                <circle class="cls-132" cx="5.85" cy="10.89" r=".96"/>
+                <circle class="cls-132" cx="3.45" cy="10.89" r=".96"/>
+                <circle class="cls-132" cx="5.85" cy="8.49" r=".96"/>
+                <circle class="cls-132" cx="3.45" cy="8.49" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="2.25" cy="12.09" r=".96"/>
+                <circle class="cls-132" cx="2.25" cy="9.69" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="4.65" cy="7.29" r=".96"/>
+                <circle class="cls-132" cx="7.05" cy="7.29" r=".96"/>
+              </g>
+              <circle class="cls-132" cx="2.25" cy="7.29" r=".96"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="2.25" y="12.09" width="4.8" height="4.8"/>
+            <g class="cls-35">
+              <g>
+                <circle class="cls-132" cx="4.65" cy="16.89" r=".96"/>
+                <circle class="cls-132" cx="7.05" cy="16.89" r=".96"/>
+                <circle class="cls-132" cx="4.65" cy="14.49" r=".96"/>
+                <circle class="cls-132" cx="7.05" cy="14.49" r=".96"/>
+                <circle class="cls-132" cx="5.85" cy="15.69" r=".96"/>
+                <circle class="cls-132" cx="3.45" cy="15.69" r=".96"/>
+                <circle class="cls-132" cx="5.85" cy="13.29" r=".96"/>
+                <circle class="cls-132" cx="3.45" cy="13.29" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="2.25" cy="16.89" r=".96"/>
+                <circle class="cls-132" cx="2.25" cy="14.49" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="4.65" cy="12.09" r=".96"/>
+                <circle class="cls-132" cx="7.05" cy="12.09" r=".96"/>
+              </g>
+              <circle class="cls-132" cx="2.25" cy="12.09" r=".96"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="2.25" y="16.89" width="4.8" height="4.8"/>
+            <g class="cls-88">
+              <g>
+                <circle class="cls-132" cx="4.65" cy="21.69" r=".96"/>
+                <circle class="cls-132" cx="7.05" cy="21.69" r=".96"/>
+                <circle class="cls-132" cx="4.65" cy="19.29" r=".96"/>
+                <circle class="cls-132" cx="7.05" cy="19.29" r=".96"/>
+                <circle class="cls-132" cx="5.85" cy="20.49" r=".96"/>
+                <circle class="cls-132" cx="3.45" cy="20.49" r=".96"/>
+                <circle class="cls-132" cx="5.85" cy="18.09" r=".96"/>
+                <circle class="cls-132" cx="3.45" cy="18.09" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="2.25" cy="21.69" r=".96"/>
+                <circle class="cls-132" cx="2.25" cy="19.29" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="4.65" cy="16.89" r=".96"/>
+                <circle class="cls-132" cx="7.05" cy="16.89" r=".96"/>
+              </g>
+              <circle class="cls-132" cx="2.25" cy="16.89" r=".96"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="2.25" y="21.69" width="4.8" height="4.8"/>
+            <g class="cls-85">
+              <g>
+                <circle class="cls-132" cx="4.65" cy="26.49" r=".96"/>
+                <circle class="cls-132" cx="7.05" cy="26.49" r=".96"/>
+                <circle class="cls-132" cx="4.65" cy="24.09" r=".96"/>
+                <circle class="cls-132" cx="7.05" cy="24.09" r=".96"/>
+                <circle class="cls-132" cx="5.85" cy="25.29" r=".96"/>
+                <circle class="cls-132" cx="3.45" cy="25.29" r=".96"/>
+                <circle class="cls-132" cx="5.85" cy="22.89" r=".96"/>
+                <circle class="cls-132" cx="3.45" cy="22.89" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="2.25" cy="26.49" r=".96"/>
+                <circle class="cls-132" cx="2.25" cy="24.09" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="4.65" cy="21.69" r=".96"/>
+                <circle class="cls-132" cx="7.05" cy="21.69" r=".96"/>
+              </g>
+              <circle class="cls-132" cx="2.25" cy="21.69" r=".96"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="2.25" y="26.49" width="4.8" height="4.8"/>
+            <g class="cls-84">
+              <g>
+                <circle class="cls-132" cx="4.65" cy="31.29" r=".96"/>
+                <circle class="cls-132" cx="7.05" cy="31.29" r=".96"/>
+                <circle class="cls-132" cx="4.65" cy="28.89" r=".96"/>
+                <circle class="cls-132" cx="7.05" cy="28.89" r=".96"/>
+                <circle class="cls-132" cx="5.85" cy="30.09" r=".96"/>
+                <circle class="cls-132" cx="3.45" cy="30.09" r=".96"/>
+                <circle class="cls-132" cx="5.85" cy="27.69" r=".96"/>
+                <circle class="cls-132" cx="3.45" cy="27.69" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="2.25" cy="31.29" r=".96"/>
+                <circle class="cls-132" cx="2.25" cy="28.89" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="4.65" cy="26.49" r=".96"/>
+                <circle class="cls-132" cx="7.05" cy="26.49" r=".96"/>
+              </g>
+              <circle class="cls-132" cx="2.25" cy="26.49" r=".96"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="2.25" y="31.29" width="4.8" height="4.8"/>
+            <g class="cls-90">
+              <g>
+                <circle class="cls-132" cx="4.65" cy="36.09" r=".96"/>
+                <circle class="cls-132" cx="7.05" cy="36.09" r=".96"/>
+                <circle class="cls-132" cx="4.65" cy="33.69" r=".96"/>
+                <circle class="cls-132" cx="7.05" cy="33.69" r=".96"/>
+                <circle class="cls-132" cx="5.85" cy="34.89" r=".96"/>
+                <circle class="cls-132" cx="3.45" cy="34.89" r=".96"/>
+                <circle class="cls-132" cx="5.85" cy="32.49" r=".96"/>
+                <circle class="cls-132" cx="3.45" cy="32.49" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="2.25" cy="36.09" r=".96"/>
+                <circle class="cls-132" cx="2.25" cy="33.69" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="4.65" cy="31.29" r=".96"/>
+                <circle class="cls-132" cx="7.05" cy="31.29" r=".96"/>
+              </g>
+              <circle class="cls-132" cx="2.25" cy="31.29" r=".96"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="2.25" y="36.09" width="4.8" height="4.8"/>
+            <g class="cls-89">
+              <g>
+                <circle class="cls-132" cx="4.65" cy="40.89" r=".96"/>
+                <circle class="cls-132" cx="7.05" cy="40.89" r=".96"/>
+                <circle class="cls-132" cx="4.65" cy="38.49" r=".96"/>
+                <circle class="cls-132" cx="7.05" cy="38.49" r=".96"/>
+                <circle class="cls-132" cx="5.85" cy="39.69" r=".96"/>
+                <circle class="cls-132" cx="3.45" cy="39.69" r=".96"/>
+                <circle class="cls-132" cx="5.85" cy="37.29" r=".96"/>
+                <circle class="cls-132" cx="3.45" cy="37.29" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="2.25" cy="40.89" r=".96"/>
+                <circle class="cls-132" cx="2.25" cy="38.49" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="4.65" cy="36.09" r=".96"/>
+                <circle class="cls-132" cx="7.05" cy="36.09" r=".96"/>
+              </g>
+              <circle class="cls-132" cx="2.25" cy="36.09" r=".96"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="-2.55" y="-2.31" width="4.8" height="4.8"/>
+            <g class="cls-86">
+              <g>
+                <circle class="cls-132" cx="-.15" cy="2.49" r=".96"/>
+                <circle class="cls-132" cx="2.25" cy="2.49" r=".96"/>
+                <circle class="cls-132" cx="-.15" cy=".09" r=".96"/>
+                <circle class="cls-132" cx="2.25" cy=".09" r=".96"/>
+                <circle class="cls-132" cx="1.05" cy="1.29" r=".96"/>
+              </g>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="-2.55" y="2.49" width="4.8" height="4.8"/>
+            <g class="cls-87">
+              <g>
+                <circle class="cls-132" cx="-.15" cy="7.29" r=".96"/>
+                <circle class="cls-132" cx="2.25" cy="7.29" r=".96"/>
+                <circle class="cls-132" cx="-.15" cy="4.89" r=".96"/>
+                <circle class="cls-132" cx="2.25" cy="4.89" r=".96"/>
+                <circle class="cls-132" cx="1.05" cy="6.09" r=".96"/>
+                <circle class="cls-132" cx="1.05" cy="3.69" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="-.15" cy="2.49" r=".96"/>
+                <circle class="cls-132" cx="2.25" cy="2.49" r=".96"/>
+              </g>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="-2.55" y="7.29" width="4.8" height="4.8"/>
+            <g class="cls-83">
+              <g>
+                <circle class="cls-132" cx="-.15" cy="12.09" r=".96"/>
+                <circle class="cls-132" cx="2.25" cy="12.09" r=".96"/>
+                <circle class="cls-132" cx="-.15" cy="9.69" r=".96"/>
+                <circle class="cls-132" cx="2.25" cy="9.69" r=".96"/>
+                <circle class="cls-132" cx="1.05" cy="10.89" r=".96"/>
+                <circle class="cls-132" cx="1.05" cy="8.49" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="-.15" cy="7.29" r=".96"/>
+                <circle class="cls-132" cx="2.25" cy="7.29" r=".96"/>
+              </g>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="-2.55" y="12.09" width="4.8" height="4.8"/>
+            <g class="cls-82">
+              <g>
+                <circle class="cls-132" cx="-.15" cy="16.89" r=".96"/>
+                <circle class="cls-132" cx="2.25" cy="16.89" r=".96"/>
+                <circle class="cls-132" cx="-.15" cy="14.49" r=".96"/>
+                <circle class="cls-132" cx="2.25" cy="14.49" r=".96"/>
+                <circle class="cls-132" cx="1.05" cy="15.69" r=".96"/>
+                <circle class="cls-132" cx="1.05" cy="13.29" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="-.15" cy="12.09" r=".96"/>
+                <circle class="cls-132" cx="2.25" cy="12.09" r=".96"/>
+              </g>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="-2.55" y="16.89" width="4.8" height="4.8"/>
+            <g class="cls-93">
+              <g>
+                <circle class="cls-132" cx="-.15" cy="21.69" r=".96"/>
+                <circle class="cls-132" cx="2.25" cy="21.69" r=".96"/>
+                <circle class="cls-132" cx="-.15" cy="19.29" r=".96"/>
+                <circle class="cls-132" cx="2.25" cy="19.29" r=".96"/>
+                <circle class="cls-132" cx="1.05" cy="20.49" r=".96"/>
+                <circle class="cls-132" cx="1.05" cy="18.09" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="-.15" cy="16.89" r=".96"/>
+                <circle class="cls-132" cx="2.25" cy="16.89" r=".96"/>
+              </g>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="-2.55" y="21.69" width="4.8" height="4.8"/>
+            <g class="cls-71">
+              <g>
+                <circle class="cls-132" cx="-.15" cy="26.49" r=".96"/>
+                <circle class="cls-132" cx="2.25" cy="26.49" r=".96"/>
+                <circle class="cls-132" cx="-.15" cy="24.09" r=".96"/>
+                <circle class="cls-132" cx="2.25" cy="24.09" r=".96"/>
+                <circle class="cls-132" cx="1.05" cy="25.29" r=".96"/>
+                <circle class="cls-132" cx="1.05" cy="22.89" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="-.15" cy="21.69" r=".96"/>
+                <circle class="cls-132" cx="2.25" cy="21.69" r=".96"/>
+              </g>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="-2.55" y="26.49" width="4.8" height="4.8"/>
+            <g class="cls-96">
+              <g>
+                <circle class="cls-132" cx="-.15" cy="31.29" r=".96"/>
+                <circle class="cls-132" cx="2.25" cy="31.29" r=".96"/>
+                <circle class="cls-132" cx="-.15" cy="28.89" r=".96"/>
+                <circle class="cls-132" cx="2.25" cy="28.89" r=".96"/>
+                <circle class="cls-132" cx="1.05" cy="30.09" r=".96"/>
+                <circle class="cls-132" cx="1.05" cy="27.69" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="-.15" cy="26.49" r=".96"/>
+                <circle class="cls-132" cx="2.25" cy="26.49" r=".96"/>
+              </g>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="-2.55" y="31.29" width="4.8" height="4.8"/>
+            <g class="cls-99">
+              <g>
+                <circle class="cls-132" cx="-.15" cy="36.09" r=".96"/>
+                <circle class="cls-132" cx="2.25" cy="36.09" r=".96"/>
+                <circle class="cls-132" cx="-.15" cy="33.69" r=".96"/>
+                <circle class="cls-132" cx="2.25" cy="33.69" r=".96"/>
+                <circle class="cls-132" cx="1.05" cy="34.89" r=".96"/>
+                <circle class="cls-132" cx="1.05" cy="32.49" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="-.15" cy="31.29" r=".96"/>
+                <circle class="cls-132" cx="2.25" cy="31.29" r=".96"/>
+              </g>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-132" x="-2.55" y="36.09" width="4.8" height="4.8"/>
+            <g class="cls-92">
+              <g>
+                <circle class="cls-132" cx="-.15" cy="40.89" r=".96"/>
+                <circle class="cls-132" cx="2.25" cy="40.89" r=".96"/>
+                <circle class="cls-132" cx="-.15" cy="38.49" r=".96"/>
+                <circle class="cls-132" cx="2.25" cy="38.49" r=".96"/>
+                <circle class="cls-132" cx="1.05" cy="39.69" r=".96"/>
+                <circle class="cls-132" cx="1.05" cy="37.29" r=".96"/>
+              </g>
+              <g>
+                <circle class="cls-132" cx="-.15" cy="36.09" r=".96"/>
+                <circle class="cls-132" cx="2.25" cy="36.09" r=".96"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <path class="cls-132" d="m27.86,40.17H2.5c-1.38,0-2.5-1.12-2.5-2.5V3C0,1.62,1.12.5,2.5.5h25.36c1.38,0,2.5,1.12,2.5,2.5v34.67c0,1.38-1.12,2.5-2.5,2.5ZM2.5,1.5c-.83,0-1.5.67-1.5,1.5v34.67c0,.83.67,1.5,1.5,1.5h25.36c.83,0,1.5-.67,1.5-1.5V3c0-.83-.67-1.5-1.5-1.5H2.5Z"/>
+    </g>
+    <g>
+      <g class="cls-97">
+        <g class="cls-91">
+          <g>
+            <circle class="cls-133" cx="28.65" cy="1.99" r=".96"/>
+            <circle class="cls-133" cx="31.05" cy="1.99" r=".96"/>
+            <circle class="cls-133" cx="28.65" cy="-.41" r=".96"/>
+            <circle class="cls-133" cx="31.05" cy="-.41" r=".96"/>
+            <circle class="cls-133" cx="29.85" cy=".79" r=".96"/>
+            <circle class="cls-133" cx="27.45" cy=".79" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="26.25" cy="1.99" r=".96"/>
+            <circle class="cls-133" cx="26.25" cy="-.41" r=".96"/>
+          </g>
+        </g>
+        <g class="cls-81">
+          <g>
+            <circle class="cls-133" cx="28.65" cy="6.79" r=".96"/>
+            <circle class="cls-133" cx="31.05" cy="6.79" r=".96"/>
+            <circle class="cls-133" cx="28.65" cy="4.39" r=".96"/>
+            <circle class="cls-133" cx="31.05" cy="4.39" r=".96"/>
+            <circle class="cls-133" cx="29.85" cy="5.59" r=".96"/>
+            <circle class="cls-133" cx="27.45" cy="5.59" r=".96"/>
+            <circle class="cls-133" cx="29.85" cy="3.19" r=".96"/>
+            <circle class="cls-133" cx="27.45" cy="3.19" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="26.25" cy="6.79" r=".96"/>
+            <circle class="cls-133" cx="26.25" cy="4.39" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="28.65" cy="1.99" r=".96"/>
+            <circle class="cls-133" cx="31.05" cy="1.99" r=".96"/>
+          </g>
+          <circle class="cls-133" cx="26.25" cy="1.99" r=".96"/>
+        </g>
+        <g class="cls-95">
+          <g>
+            <circle class="cls-133" cx="28.65" cy="11.59" r=".96"/>
+            <circle class="cls-133" cx="31.05" cy="11.59" r=".96"/>
+            <circle class="cls-133" cx="28.65" cy="9.19" r=".96"/>
+            <circle class="cls-133" cx="31.05" cy="9.19" r=".96"/>
+            <circle class="cls-133" cx="29.85" cy="10.39" r=".96"/>
+            <circle class="cls-133" cx="27.45" cy="10.39" r=".96"/>
+            <circle class="cls-133" cx="29.85" cy="7.99" r=".96"/>
+            <circle class="cls-133" cx="27.45" cy="7.99" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="26.25" cy="11.59" r=".96"/>
+            <circle class="cls-133" cx="26.25" cy="9.19" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="28.65" cy="6.79" r=".96"/>
+            <circle class="cls-133" cx="31.05" cy="6.79" r=".96"/>
+          </g>
+          <circle class="cls-133" cx="26.25" cy="6.79" r=".96"/>
+        </g>
+        <g class="cls-98">
+          <g>
+            <circle class="cls-133" cx="28.65" cy="16.39" r=".96"/>
+            <circle class="cls-133" cx="31.05" cy="16.39" r=".96"/>
+            <circle class="cls-133" cx="28.65" cy="13.99" r=".96"/>
+            <circle class="cls-133" cx="31.05" cy="13.99" r=".96"/>
+            <circle class="cls-133" cx="29.85" cy="15.19" r=".96"/>
+            <circle class="cls-133" cx="27.45" cy="15.19" r=".96"/>
+            <circle class="cls-133" cx="29.85" cy="12.79" r=".96"/>
+            <circle class="cls-133" cx="27.45" cy="12.79" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="26.25" cy="16.39" r=".96"/>
+            <circle class="cls-133" cx="26.25" cy="13.99" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="28.65" cy="11.59" r=".96"/>
+            <circle class="cls-133" cx="31.05" cy="11.59" r=".96"/>
+          </g>
+          <circle class="cls-133" cx="26.25" cy="11.59" r=".96"/>
+        </g>
+        <g class="cls-72">
+          <g>
+            <circle class="cls-133" cx="28.65" cy="21.19" r=".96"/>
+            <circle class="cls-133" cx="31.05" cy="21.19" r=".96"/>
+            <circle class="cls-133" cx="28.65" cy="18.79" r=".96"/>
+            <circle class="cls-133" cx="31.05" cy="18.79" r=".96"/>
+            <circle class="cls-133" cx="29.85" cy="19.99" r=".96"/>
+            <circle class="cls-133" cx="27.45" cy="19.99" r=".96"/>
+            <circle class="cls-133" cx="29.85" cy="17.59" r=".96"/>
+            <circle class="cls-133" cx="27.45" cy="17.59" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="26.25" cy="21.19" r=".96"/>
+            <circle class="cls-133" cx="26.25" cy="18.79" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="28.65" cy="16.39" r=".96"/>
+            <circle class="cls-133" cx="31.05" cy="16.39" r=".96"/>
+          </g>
+          <circle class="cls-133" cx="26.25" cy="16.39" r=".96"/>
+        </g>
+        <g class="cls-80">
+          <g>
+            <circle class="cls-133" cx="28.65" cy="25.99" r=".96"/>
+            <circle class="cls-133" cx="31.05" cy="25.99" r=".96"/>
+            <circle class="cls-133" cx="28.65" cy="23.59" r=".96"/>
+            <circle class="cls-133" cx="31.05" cy="23.59" r=".96"/>
+            <circle class="cls-133" cx="29.85" cy="24.79" r=".96"/>
+            <circle class="cls-133" cx="27.45" cy="24.79" r=".96"/>
+            <circle class="cls-133" cx="29.85" cy="22.39" r=".96"/>
+            <circle class="cls-133" cx="27.45" cy="22.39" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="26.25" cy="25.99" r=".96"/>
+            <circle class="cls-133" cx="26.25" cy="23.59" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="28.65" cy="21.19" r=".96"/>
+            <circle class="cls-133" cx="31.05" cy="21.19" r=".96"/>
+          </g>
+          <circle class="cls-133" cx="26.25" cy="21.19" r=".96"/>
+        </g>
+        <g class="cls-74">
+          <g>
+            <circle class="cls-133" cx="28.65" cy="30.79" r=".96"/>
+            <circle class="cls-133" cx="31.05" cy="30.79" r=".96"/>
+            <circle class="cls-133" cx="28.65" cy="28.39" r=".96"/>
+            <circle class="cls-133" cx="31.05" cy="28.39" r=".96"/>
+            <circle class="cls-133" cx="29.85" cy="29.59" r=".96"/>
+            <circle class="cls-133" cx="27.45" cy="29.59" r=".96"/>
+            <circle class="cls-133" cx="29.85" cy="27.19" r=".96"/>
+            <circle class="cls-133" cx="27.45" cy="27.19" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="26.25" cy="30.79" r=".96"/>
+            <circle class="cls-133" cx="26.25" cy="28.39" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="28.65" cy="25.99" r=".96"/>
+            <circle class="cls-133" cx="31.05" cy="25.99" r=".96"/>
+          </g>
+          <circle class="cls-133" cx="26.25" cy="25.99" r=".96"/>
+        </g>
+        <g class="cls-79">
+          <g>
+            <circle class="cls-133" cx="28.65" cy="35.59" r=".96"/>
+            <circle class="cls-133" cx="31.05" cy="35.59" r=".96"/>
+            <circle class="cls-133" cx="28.65" cy="33.19" r=".96"/>
+            <circle class="cls-133" cx="31.05" cy="33.19" r=".96"/>
+            <circle class="cls-133" cx="29.85" cy="34.39" r=".96"/>
+            <circle class="cls-133" cx="27.45" cy="34.39" r=".96"/>
+            <circle class="cls-133" cx="29.85" cy="31.99" r=".96"/>
+            <circle class="cls-133" cx="27.45" cy="31.99" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="26.25" cy="35.59" r=".96"/>
+            <circle class="cls-133" cx="26.25" cy="33.19" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="28.65" cy="30.79" r=".96"/>
+            <circle class="cls-133" cx="31.05" cy="30.79" r=".96"/>
+          </g>
+          <circle class="cls-133" cx="26.25" cy="30.79" r=".96"/>
+        </g>
+        <g class="cls-94">
+          <g>
+            <circle class="cls-133" cx="28.65" cy="40.39" r=".96"/>
+            <circle class="cls-133" cx="31.05" cy="40.39" r=".96"/>
+            <circle class="cls-133" cx="28.65" cy="37.99" r=".96"/>
+            <circle class="cls-133" cx="31.05" cy="37.99" r=".96"/>
+            <circle class="cls-133" cx="29.85" cy="39.19" r=".96"/>
+            <circle class="cls-133" cx="27.45" cy="39.19" r=".96"/>
+            <circle class="cls-133" cx="29.85" cy="36.79" r=".96"/>
+            <circle class="cls-133" cx="27.45" cy="36.79" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="26.25" cy="40.39" r=".96"/>
+            <circle class="cls-133" cx="26.25" cy="37.99" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="28.65" cy="35.59" r=".96"/>
+            <circle class="cls-133" cx="31.05" cy="35.59" r=".96"/>
+          </g>
+          <circle class="cls-133" cx="26.25" cy="35.59" r=".96"/>
+        </g>
+        <g class="cls-76">
+          <g>
+            <circle class="cls-133" cx="23.85" cy="1.99" r=".96"/>
+            <circle class="cls-133" cx="26.25" cy="1.99" r=".96"/>
+            <circle class="cls-133" cx="23.85" cy="-.41" r=".96"/>
+            <circle class="cls-133" cx="26.25" cy="-.41" r=".96"/>
+            <circle class="cls-133" cx="25.05" cy=".79" r=".96"/>
+            <circle class="cls-133" cx="22.65" cy=".79" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="21.45" cy="1.99" r=".96"/>
+            <circle class="cls-133" cx="21.45" cy="-.41" r=".96"/>
+          </g>
+        </g>
+        <g class="cls-78">
+          <g>
+            <circle class="cls-133" cx="23.85" cy="6.79" r=".96"/>
+            <circle class="cls-133" cx="26.25" cy="6.79" r=".96"/>
+            <circle class="cls-133" cx="23.85" cy="4.39" r=".96"/>
+            <circle class="cls-133" cx="26.25" cy="4.39" r=".96"/>
+            <circle class="cls-133" cx="25.05" cy="5.59" r=".96"/>
+            <circle class="cls-133" cx="22.65" cy="5.59" r=".96"/>
+            <circle class="cls-133" cx="25.05" cy="3.19" r=".96"/>
+            <circle class="cls-133" cx="22.65" cy="3.19" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="21.45" cy="6.79" r=".96"/>
+            <circle class="cls-133" cx="21.45" cy="4.39" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="23.85" cy="1.99" r=".96"/>
+            <circle class="cls-133" cx="26.25" cy="1.99" r=".96"/>
+          </g>
+          <circle class="cls-133" cx="21.45" cy="1.99" r=".96"/>
+        </g>
+        <g class="cls-73">
+          <g>
+            <circle class="cls-133" cx="23.85" cy="11.59" r=".96"/>
+            <circle class="cls-133" cx="26.25" cy="11.59" r=".96"/>
+            <circle class="cls-133" cx="23.85" cy="9.19" r=".96"/>
+            <circle class="cls-133" cx="26.25" cy="9.19" r=".96"/>
+            <circle class="cls-133" cx="25.05" cy="10.39" r=".96"/>
+            <circle class="cls-133" cx="22.65" cy="10.39" r=".96"/>
+            <circle class="cls-133" cx="25.05" cy="7.99" r=".96"/>
+            <circle class="cls-133" cx="22.65" cy="7.99" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="21.45" cy="11.59" r=".96"/>
+            <circle class="cls-133" cx="21.45" cy="9.19" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="23.85" cy="6.79" r=".96"/>
+            <circle class="cls-133" cx="26.25" cy="6.79" r=".96"/>
+          </g>
+          <circle class="cls-133" cx="21.45" cy="6.79" r=".96"/>
+        </g>
+        <g class="cls-77">
+          <g>
+            <circle class="cls-133" cx="23.85" cy="16.39" r=".96"/>
+            <circle class="cls-133" cx="26.25" cy="16.39" r=".96"/>
+            <circle class="cls-133" cx="23.85" cy="13.99" r=".96"/>
+            <circle class="cls-133" cx="26.25" cy="13.99" r=".96"/>
+            <circle class="cls-133" cx="25.05" cy="15.19" r=".96"/>
+            <circle class="cls-133" cx="22.65" cy="15.19" r=".96"/>
+            <circle class="cls-133" cx="25.05" cy="12.79" r=".96"/>
+            <circle class="cls-133" cx="22.65" cy="12.79" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="21.45" cy="16.39" r=".96"/>
+            <circle class="cls-133" cx="21.45" cy="13.99" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="23.85" cy="11.59" r=".96"/>
+            <circle class="cls-133" cx="26.25" cy="11.59" r=".96"/>
+          </g>
+          <circle class="cls-133" cx="21.45" cy="11.59" r=".96"/>
+        </g>
+        <g class="cls-75">
+          <g>
+            <circle class="cls-133" cx="23.85" cy="21.19" r=".96"/>
+            <circle class="cls-133" cx="26.25" cy="21.19" r=".96"/>
+            <circle class="cls-133" cx="23.85" cy="18.79" r=".96"/>
+            <circle class="cls-133" cx="26.25" cy="18.79" r=".96"/>
+            <circle class="cls-133" cx="25.05" cy="19.99" r=".96"/>
+            <circle class="cls-133" cx="22.65" cy="19.99" r=".96"/>
+            <circle class="cls-133" cx="25.05" cy="17.59" r=".96"/>
+            <circle class="cls-133" cx="22.65" cy="17.59" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="21.45" cy="21.19" r=".96"/>
+            <circle class="cls-133" cx="21.45" cy="18.79" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="23.85" cy="16.39" r=".96"/>
+            <circle class="cls-133" cx="26.25" cy="16.39" r=".96"/>
+          </g>
+          <circle class="cls-133" cx="21.45" cy="16.39" r=".96"/>
+        </g>
+        <g class="cls-100">
+          <g>
+            <circle class="cls-133" cx="23.85" cy="25.99" r=".96"/>
+            <circle class="cls-133" cx="26.25" cy="25.99" r=".96"/>
+            <circle class="cls-133" cx="23.85" cy="23.59" r=".96"/>
+            <circle class="cls-133" cx="26.25" cy="23.59" r=".96"/>
+            <circle class="cls-133" cx="25.05" cy="24.79" r=".96"/>
+            <circle class="cls-133" cx="22.65" cy="24.79" r=".96"/>
+            <circle class="cls-133" cx="25.05" cy="22.39" r=".96"/>
+            <circle class="cls-133" cx="22.65" cy="22.39" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="21.45" cy="25.99" r=".96"/>
+            <circle class="cls-133" cx="21.45" cy="23.59" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="23.85" cy="21.19" r=".96"/>
+            <circle class="cls-133" cx="26.25" cy="21.19" r=".96"/>
+          </g>
+          <circle class="cls-133" cx="21.45" cy="21.19" r=".96"/>
+        </g>
+        <g class="cls-44">
+          <g>
+            <circle class="cls-133" cx="23.85" cy="30.79" r=".96"/>
+            <circle class="cls-133" cx="26.25" cy="30.79" r=".96"/>
+            <circle class="cls-133" cx="23.85" cy="28.39" r=".96"/>
+            <circle class="cls-133" cx="26.25" cy="28.39" r=".96"/>
+            <circle class="cls-133" cx="25.05" cy="29.59" r=".96"/>
+            <circle class="cls-133" cx="22.65" cy="29.59" r=".96"/>
+            <circle class="cls-133" cx="25.05" cy="27.19" r=".96"/>
+            <circle class="cls-133" cx="22.65" cy="27.19" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="21.45" cy="30.79" r=".96"/>
+            <circle class="cls-133" cx="21.45" cy="28.39" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="23.85" cy="25.99" r=".96"/>
+            <circle class="cls-133" cx="26.25" cy="25.99" r=".96"/>
+          </g>
+          <circle class="cls-133" cx="21.45" cy="25.99" r=".96"/>
+        </g>
+        <g class="cls-41">
+          <g>
+            <circle class="cls-133" cx="23.85" cy="35.59" r=".96"/>
+            <circle class="cls-133" cx="26.25" cy="35.59" r=".96"/>
+            <circle class="cls-133" cx="23.85" cy="33.19" r=".96"/>
+            <circle class="cls-133" cx="26.25" cy="33.19" r=".96"/>
+            <circle class="cls-133" cx="25.05" cy="34.39" r=".96"/>
+            <circle class="cls-133" cx="22.65" cy="34.39" r=".96"/>
+            <circle class="cls-133" cx="25.05" cy="31.99" r=".96"/>
+            <circle class="cls-133" cx="22.65" cy="31.99" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="21.45" cy="35.59" r=".96"/>
+            <circle class="cls-133" cx="21.45" cy="33.19" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="23.85" cy="30.79" r=".96"/>
+            <circle class="cls-133" cx="26.25" cy="30.79" r=".96"/>
+          </g>
+          <circle class="cls-133" cx="21.45" cy="30.79" r=".96"/>
+        </g>
+        <g class="cls-46">
+          <g>
+            <circle class="cls-133" cx="23.85" cy="40.39" r=".96"/>
+            <circle class="cls-133" cx="26.25" cy="40.39" r=".96"/>
+            <circle class="cls-133" cx="23.85" cy="37.99" r=".96"/>
+            <circle class="cls-133" cx="26.25" cy="37.99" r=".96"/>
+            <circle class="cls-133" cx="25.05" cy="39.19" r=".96"/>
+            <circle class="cls-133" cx="22.65" cy="39.19" r=".96"/>
+            <circle class="cls-133" cx="25.05" cy="36.79" r=".96"/>
+            <circle class="cls-133" cx="22.65" cy="36.79" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="21.45" cy="40.39" r=".96"/>
+            <circle class="cls-133" cx="21.45" cy="37.99" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="23.85" cy="35.59" r=".96"/>
+            <circle class="cls-133" cx="26.25" cy="35.59" r=".96"/>
+          </g>
+          <circle class="cls-133" cx="21.45" cy="35.59" r=".96"/>
+        </g>
+        <g class="cls-42">
+          <g>
+            <circle class="cls-133" cx="19.05" cy="1.99" r=".96"/>
+            <circle class="cls-133" cx="21.45" cy="1.99" r=".96"/>
+            <circle class="cls-133" cx="19.05" cy="-.41" r=".96"/>
+            <circle class="cls-133" cx="21.45" cy="-.41" r=".96"/>
+            <circle class="cls-133" cx="20.25" cy=".79" r=".96"/>
+            <circle class="cls-133" cx="17.85" cy=".79" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="16.65" cy="1.99" r=".96"/>
+            <circle class="cls-133" cx="16.65" cy="-.41" r=".96"/>
+          </g>
+        </g>
+        <g class="cls-38">
+          <g>
+            <circle class="cls-133" cx="19.05" cy="6.79" r=".96"/>
+            <circle class="cls-133" cx="21.45" cy="6.79" r=".96"/>
+            <circle class="cls-133" cx="19.05" cy="4.39" r=".96"/>
+            <circle class="cls-133" cx="21.45" cy="4.39" r=".96"/>
+            <circle class="cls-133" cx="20.25" cy="5.59" r=".96"/>
+            <circle class="cls-133" cx="17.85" cy="5.59" r=".96"/>
+            <circle class="cls-133" cx="20.25" cy="3.19" r=".96"/>
+            <circle class="cls-133" cx="17.85" cy="3.19" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="16.65" cy="6.79" r=".96"/>
+            <circle class="cls-133" cx="16.65" cy="4.39" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="19.05" cy="1.99" r=".96"/>
+            <circle class="cls-133" cx="21.45" cy="1.99" r=".96"/>
+          </g>
+          <circle class="cls-133" cx="16.65" cy="1.99" r=".96"/>
+        </g>
+        <g class="cls-43">
+          <g>
+            <circle class="cls-133" cx="19.05" cy="11.59" r=".96"/>
+            <circle class="cls-133" cx="21.45" cy="11.59" r=".96"/>
+            <circle class="cls-133" cx="19.05" cy="9.19" r=".96"/>
+            <circle class="cls-133" cx="21.45" cy="9.19" r=".96"/>
+            <circle class="cls-133" cx="20.25" cy="10.39" r=".96"/>
+            <circle class="cls-133" cx="17.85" cy="10.39" r=".96"/>
+            <circle class="cls-133" cx="20.25" cy="7.99" r=".96"/>
+            <circle class="cls-133" cx="17.85" cy="7.99" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="16.65" cy="11.59" r=".96"/>
+            <circle class="cls-133" cx="16.65" cy="9.19" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="19.05" cy="6.79" r=".96"/>
+            <circle class="cls-133" cx="21.45" cy="6.79" r=".96"/>
+          </g>
+          <circle class="cls-133" cx="16.65" cy="6.79" r=".96"/>
+        </g>
+        <g class="cls-37">
+          <g>
+            <circle class="cls-133" cx="19.05" cy="16.39" r=".96"/>
+            <circle class="cls-133" cx="21.45" cy="16.39" r=".96"/>
+            <circle class="cls-133" cx="19.05" cy="13.99" r=".96"/>
+            <circle class="cls-133" cx="21.45" cy="13.99" r=".96"/>
+            <circle class="cls-133" cx="20.25" cy="15.19" r=".96"/>
+            <circle class="cls-133" cx="17.85" cy="15.19" r=".96"/>
+            <circle class="cls-133" cx="20.25" cy="12.79" r=".96"/>
+            <circle class="cls-133" cx="17.85" cy="12.79" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="16.65" cy="16.39" r=".96"/>
+            <circle class="cls-133" cx="16.65" cy="13.99" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="19.05" cy="11.59" r=".96"/>
+            <circle class="cls-133" cx="21.45" cy="11.59" r=".96"/>
+          </g>
+          <circle class="cls-133" cx="16.65" cy="11.59" r=".96"/>
+        </g>
+        <g class="cls-45">
+          <g>
+            <circle class="cls-133" cx="19.05" cy="21.19" r=".96"/>
+            <circle class="cls-133" cx="21.45" cy="21.19" r=".96"/>
+            <circle class="cls-133" cx="19.05" cy="18.79" r=".96"/>
+            <circle class="cls-133" cx="21.45" cy="18.79" r=".96"/>
+            <circle class="cls-133" cx="20.25" cy="19.99" r=".96"/>
+            <circle class="cls-133" cx="17.85" cy="19.99" r=".96"/>
+            <circle class="cls-133" cx="20.25" cy="17.59" r=".96"/>
+            <circle class="cls-133" cx="17.85" cy="17.59" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="16.65" cy="21.19" r=".96"/>
+            <circle class="cls-133" cx="16.65" cy="18.79" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="19.05" cy="16.39" r=".96"/>
+            <circle class="cls-133" cx="21.45" cy="16.39" r=".96"/>
+          </g>
+          <circle class="cls-133" cx="16.65" cy="16.39" r=".96"/>
+        </g>
+        <g class="cls-39">
+          <g>
+            <circle class="cls-133" cx="19.05" cy="25.99" r=".96"/>
+            <circle class="cls-133" cx="21.45" cy="25.99" r=".96"/>
+            <circle class="cls-133" cx="19.05" cy="23.59" r=".96"/>
+            <circle class="cls-133" cx="21.45" cy="23.59" r=".96"/>
+            <circle class="cls-133" cx="20.25" cy="24.79" r=".96"/>
+            <circle class="cls-133" cx="17.85" cy="24.79" r=".96"/>
+            <circle class="cls-133" cx="20.25" cy="22.39" r=".96"/>
+            <circle class="cls-133" cx="17.85" cy="22.39" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="16.65" cy="25.99" r=".96"/>
+            <circle class="cls-133" cx="16.65" cy="23.59" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="19.05" cy="21.19" r=".96"/>
+            <circle class="cls-133" cx="21.45" cy="21.19" r=".96"/>
+          </g>
+          <circle class="cls-133" cx="16.65" cy="21.19" r=".96"/>
+        </g>
+        <g class="cls-47">
+          <g>
+            <circle class="cls-133" cx="19.05" cy="30.79" r=".96"/>
+            <circle class="cls-133" cx="21.45" cy="30.79" r=".96"/>
+            <circle class="cls-133" cx="19.05" cy="28.39" r=".96"/>
+            <circle class="cls-133" cx="21.45" cy="28.39" r=".96"/>
+            <circle class="cls-133" cx="20.25" cy="29.59" r=".96"/>
+            <circle class="cls-133" cx="17.85" cy="29.59" r=".96"/>
+            <circle class="cls-133" cx="20.25" cy="27.19" r=".96"/>
+            <circle class="cls-133" cx="17.85" cy="27.19" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="16.65" cy="30.79" r=".96"/>
+            <circle class="cls-133" cx="16.65" cy="28.39" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="19.05" cy="25.99" r=".96"/>
+            <circle class="cls-133" cx="21.45" cy="25.99" r=".96"/>
+          </g>
+          <circle class="cls-133" cx="16.65" cy="25.99" r=".96"/>
+        </g>
+        <g class="cls-61">
+          <g>
+            <circle class="cls-133" cx="19.05" cy="35.59" r=".96"/>
+            <circle class="cls-133" cx="21.45" cy="35.59" r=".96"/>
+            <circle class="cls-133" cx="19.05" cy="33.19" r=".96"/>
+            <circle class="cls-133" cx="21.45" cy="33.19" r=".96"/>
+            <circle class="cls-133" cx="20.25" cy="34.39" r=".96"/>
+            <circle class="cls-133" cx="17.85" cy="34.39" r=".96"/>
+            <circle class="cls-133" cx="20.25" cy="31.99" r=".96"/>
+            <circle class="cls-133" cx="17.85" cy="31.99" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="16.65" cy="35.59" r=".96"/>
+            <circle class="cls-133" cx="16.65" cy="33.19" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="19.05" cy="30.79" r=".96"/>
+            <circle class="cls-133" cx="21.45" cy="30.79" r=".96"/>
+          </g>
+          <circle class="cls-133" cx="16.65" cy="30.79" r=".96"/>
+        </g>
+        <g class="cls-64">
+          <g>
+            <circle class="cls-133" cx="19.05" cy="40.39" r=".96"/>
+            <circle class="cls-133" cx="21.45" cy="40.39" r=".96"/>
+            <circle class="cls-133" cx="19.05" cy="37.99" r=".96"/>
+            <circle class="cls-133" cx="21.45" cy="37.99" r=".96"/>
+            <circle class="cls-133" cx="20.25" cy="39.19" r=".96"/>
+            <circle class="cls-133" cx="17.85" cy="39.19" r=".96"/>
+            <circle class="cls-133" cx="20.25" cy="36.79" r=".96"/>
+            <circle class="cls-133" cx="17.85" cy="36.79" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="16.65" cy="40.39" r=".96"/>
+            <circle class="cls-133" cx="16.65" cy="37.99" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="19.05" cy="35.59" r=".96"/>
+            <circle class="cls-133" cx="21.45" cy="35.59" r=".96"/>
+          </g>
+          <circle class="cls-133" cx="16.65" cy="35.59" r=".96"/>
+        </g>
+        <g class="cls-60">
+          <g>
+            <circle class="cls-133" cx="14.25" cy="1.99" r=".96"/>
+            <circle class="cls-133" cx="16.65" cy="1.99" r=".96"/>
+            <circle class="cls-133" cx="14.25" cy="-.41" r=".96"/>
+            <circle class="cls-133" cx="16.65" cy="-.41" r=".96"/>
+            <circle class="cls-133" cx="15.45" cy=".79" r=".96"/>
+            <circle class="cls-133" cx="13.05" cy=".79" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="11.85" cy="1.99" r=".96"/>
+            <circle class="cls-133" cx="11.85" cy="-.41" r=".96"/>
+          </g>
+        </g>
+        <g class="cls-63">
+          <g>
+            <circle class="cls-133" cx="14.25" cy="6.79" r=".96"/>
+            <circle class="cls-133" cx="16.65" cy="6.79" r=".96"/>
+            <circle class="cls-133" cx="14.25" cy="4.39" r=".96"/>
+            <circle class="cls-133" cx="16.65" cy="4.39" r=".96"/>
+            <circle class="cls-133" cx="15.45" cy="5.59" r=".96"/>
+            <circle class="cls-133" cx="13.05" cy="5.59" r=".96"/>
+            <circle class="cls-133" cx="15.45" cy="3.19" r=".96"/>
+            <circle class="cls-133" cx="13.05" cy="3.19" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="11.85" cy="6.79" r=".96"/>
+            <circle class="cls-133" cx="11.85" cy="4.39" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="14.25" cy="1.99" r=".96"/>
+            <circle class="cls-133" cx="16.65" cy="1.99" r=".96"/>
+          </g>
+          <circle class="cls-133" cx="11.85" cy="1.99" r=".96"/>
+        </g>
+        <g class="cls-66">
+          <g>
+            <circle class="cls-133" cx="14.25" cy="11.59" r=".96"/>
+            <circle class="cls-133" cx="16.65" cy="11.59" r=".96"/>
+            <circle class="cls-133" cx="14.25" cy="9.19" r=".96"/>
+            <circle class="cls-133" cx="16.65" cy="9.19" r=".96"/>
+            <circle class="cls-133" cx="15.45" cy="10.39" r=".96"/>
+            <circle class="cls-133" cx="13.05" cy="10.39" r=".96"/>
+            <circle class="cls-133" cx="15.45" cy="7.99" r=".96"/>
+            <circle class="cls-133" cx="13.05" cy="7.99" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="11.85" cy="11.59" r=".96"/>
+            <circle class="cls-133" cx="11.85" cy="9.19" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="14.25" cy="6.79" r=".96"/>
+            <circle class="cls-133" cx="16.65" cy="6.79" r=".96"/>
+          </g>
+          <circle class="cls-133" cx="11.85" cy="6.79" r=".96"/>
+        </g>
+        <g class="cls-70">
+          <g>
+            <circle class="cls-133" cx="14.25" cy="16.39" r=".96"/>
+            <circle class="cls-133" cx="16.65" cy="16.39" r=".96"/>
+            <circle class="cls-133" cx="14.25" cy="13.99" r=".96"/>
+            <circle class="cls-133" cx="16.65" cy="13.99" r=".96"/>
+            <circle class="cls-133" cx="15.45" cy="15.19" r=".96"/>
+            <circle class="cls-133" cx="13.05" cy="15.19" r=".96"/>
+            <circle class="cls-133" cx="15.45" cy="12.79" r=".96"/>
+            <circle class="cls-133" cx="13.05" cy="12.79" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="11.85" cy="16.39" r=".96"/>
+            <circle class="cls-133" cx="11.85" cy="13.99" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="14.25" cy="11.59" r=".96"/>
+            <circle class="cls-133" cx="16.65" cy="11.59" r=".96"/>
+          </g>
+          <circle class="cls-133" cx="11.85" cy="11.59" r=".96"/>
+        </g>
+        <g class="cls-65">
+          <g>
+            <circle class="cls-133" cx="14.25" cy="21.19" r=".96"/>
+            <circle class="cls-133" cx="16.65" cy="21.19" r=".96"/>
+            <circle class="cls-133" cx="14.25" cy="18.79" r=".96"/>
+            <circle class="cls-133" cx="16.65" cy="18.79" r=".96"/>
+            <circle class="cls-133" cx="15.45" cy="19.99" r=".96"/>
+            <circle class="cls-133" cx="13.05" cy="19.99" r=".96"/>
+            <circle class="cls-133" cx="15.45" cy="17.59" r=".96"/>
+            <circle class="cls-133" cx="13.05" cy="17.59" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="11.85" cy="21.19" r=".96"/>
+            <circle class="cls-133" cx="11.85" cy="18.79" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="14.25" cy="16.39" r=".96"/>
+            <circle class="cls-133" cx="16.65" cy="16.39" r=".96"/>
+          </g>
+          <circle class="cls-133" cx="11.85" cy="16.39" r=".96"/>
+        </g>
+        <g class="cls-62">
+          <g>
+            <circle class="cls-133" cx="14.25" cy="25.99" r=".96"/>
+            <circle class="cls-133" cx="16.65" cy="25.99" r=".96"/>
+            <circle class="cls-133" cx="14.25" cy="23.59" r=".96"/>
+            <circle class="cls-133" cx="16.65" cy="23.59" r=".96"/>
+            <circle class="cls-133" cx="15.45" cy="24.79" r=".96"/>
+            <circle class="cls-133" cx="13.05" cy="24.79" r=".96"/>
+            <circle class="cls-133" cx="15.45" cy="22.39" r=".96"/>
+            <circle class="cls-133" cx="13.05" cy="22.39" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="11.85" cy="25.99" r=".96"/>
+            <circle class="cls-133" cx="11.85" cy="23.59" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="14.25" cy="21.19" r=".96"/>
+            <circle class="cls-133" cx="16.65" cy="21.19" r=".96"/>
+          </g>
+          <circle class="cls-133" cx="11.85" cy="21.19" r=".96"/>
+        </g>
+        <g class="cls-40">
+          <g>
+            <circle class="cls-133" cx="14.25" cy="30.79" r=".96"/>
+            <circle class="cls-133" cx="16.65" cy="30.79" r=".96"/>
+            <circle class="cls-133" cx="14.25" cy="28.39" r=".96"/>
+            <circle class="cls-133" cx="16.65" cy="28.39" r=".96"/>
+            <circle class="cls-133" cx="15.45" cy="29.59" r=".96"/>
+            <circle class="cls-133" cx="13.05" cy="29.59" r=".96"/>
+            <circle class="cls-133" cx="15.45" cy="27.19" r=".96"/>
+            <circle class="cls-133" cx="13.05" cy="27.19" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="11.85" cy="30.79" r=".96"/>
+            <circle class="cls-133" cx="11.85" cy="28.39" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="14.25" cy="25.99" r=".96"/>
+            <circle class="cls-133" cx="16.65" cy="25.99" r=".96"/>
+          </g>
+          <circle class="cls-133" cx="11.85" cy="25.99" r=".96"/>
+        </g>
+        <g class="cls-69">
+          <g>
+            <circle class="cls-133" cx="14.25" cy="35.59" r=".96"/>
+            <circle class="cls-133" cx="16.65" cy="35.59" r=".96"/>
+            <circle class="cls-133" cx="14.25" cy="33.19" r=".96"/>
+            <circle class="cls-133" cx="16.65" cy="33.19" r=".96"/>
+            <circle class="cls-133" cx="15.45" cy="34.39" r=".96"/>
+            <circle class="cls-133" cx="13.05" cy="34.39" r=".96"/>
+            <circle class="cls-133" cx="15.45" cy="31.99" r=".96"/>
+            <circle class="cls-133" cx="13.05" cy="31.99" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="11.85" cy="35.59" r=".96"/>
+            <circle class="cls-133" cx="11.85" cy="33.19" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="14.25" cy="30.79" r=".96"/>
+            <circle class="cls-133" cx="16.65" cy="30.79" r=".96"/>
+          </g>
+          <circle class="cls-133" cx="11.85" cy="30.79" r=".96"/>
+        </g>
+        <g class="cls-126">
+          <g>
+            <circle class="cls-133" cx="14.25" cy="40.39" r=".96"/>
+            <circle class="cls-133" cx="16.65" cy="40.39" r=".96"/>
+            <circle class="cls-133" cx="14.25" cy="37.99" r=".96"/>
+            <circle class="cls-133" cx="16.65" cy="37.99" r=".96"/>
+            <circle class="cls-133" cx="15.45" cy="39.19" r=".96"/>
+            <circle class="cls-133" cx="13.05" cy="39.19" r=".96"/>
+            <circle class="cls-133" cx="15.45" cy="36.79" r=".96"/>
+            <circle class="cls-133" cx="13.05" cy="36.79" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="11.85" cy="40.39" r=".96"/>
+            <circle class="cls-133" cx="11.85" cy="37.99" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="14.25" cy="35.59" r=".96"/>
+            <circle class="cls-133" cx="16.65" cy="35.59" r=".96"/>
+          </g>
+          <circle class="cls-133" cx="11.85" cy="35.59" r=".96"/>
+        </g>
+        <g class="cls-123">
+          <g>
+            <circle class="cls-133" cx="9.45" cy="1.99" r=".96"/>
+            <circle class="cls-133" cx="11.85" cy="1.99" r=".96"/>
+            <circle class="cls-133" cx="9.45" cy="-.41" r=".96"/>
+            <circle class="cls-133" cx="11.85" cy="-.41" r=".96"/>
+            <circle class="cls-133" cx="10.65" cy=".79" r=".96"/>
+            <circle class="cls-133" cx="8.25" cy=".79" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="7.05" cy="1.99" r=".96"/>
+            <circle class="cls-133" cx="7.05" cy="-.41" r=".96"/>
+          </g>
+        </g>
+        <g class="cls-124">
+          <g>
+            <circle class="cls-133" cx="9.45" cy="6.79" r=".96"/>
+            <circle class="cls-133" cx="11.85" cy="6.79" r=".96"/>
+            <circle class="cls-133" cx="9.45" cy="4.39" r=".96"/>
+            <circle class="cls-133" cx="11.85" cy="4.39" r=".96"/>
+            <circle class="cls-133" cx="10.65" cy="5.59" r=".96"/>
+            <circle class="cls-133" cx="8.25" cy="5.59" r=".96"/>
+            <circle class="cls-133" cx="10.65" cy="3.19" r=".96"/>
+            <circle class="cls-133" cx="8.25" cy="3.19" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="7.05" cy="6.79" r=".96"/>
+            <circle class="cls-133" cx="7.05" cy="4.39" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="9.45" cy="1.99" r=".96"/>
+            <circle class="cls-133" cx="11.85" cy="1.99" r=".96"/>
+          </g>
+          <circle class="cls-133" cx="7.05" cy="1.99" r=".96"/>
+        </g>
+        <g class="cls-125">
+          <g>
+            <circle class="cls-133" cx="9.45" cy="11.59" r=".96"/>
+            <circle class="cls-133" cx="11.85" cy="11.59" r=".96"/>
+            <circle class="cls-133" cx="9.45" cy="9.19" r=".96"/>
+            <circle class="cls-133" cx="11.85" cy="9.19" r=".96"/>
+            <circle class="cls-133" cx="10.65" cy="10.39" r=".96"/>
+            <circle class="cls-133" cx="8.25" cy="10.39" r=".96"/>
+            <circle class="cls-133" cx="10.65" cy="7.99" r=".96"/>
+            <circle class="cls-133" cx="8.25" cy="7.99" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="7.05" cy="11.59" r=".96"/>
+            <circle class="cls-133" cx="7.05" cy="9.19" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="9.45" cy="6.79" r=".96"/>
+            <circle class="cls-133" cx="11.85" cy="6.79" r=".96"/>
+          </g>
+          <circle class="cls-133" cx="7.05" cy="6.79" r=".96"/>
+        </g>
+        <g class="cls-128">
+          <g>
+            <circle class="cls-133" cx="9.45" cy="16.39" r=".96"/>
+            <circle class="cls-133" cx="11.85" cy="16.39" r=".96"/>
+            <circle class="cls-133" cx="9.45" cy="13.99" r=".96"/>
+            <circle class="cls-133" cx="11.85" cy="13.99" r=".96"/>
+            <circle class="cls-133" cx="10.65" cy="15.19" r=".96"/>
+            <circle class="cls-133" cx="8.25" cy="15.19" r=".96"/>
+            <circle class="cls-133" cx="10.65" cy="12.79" r=".96"/>
+            <circle class="cls-133" cx="8.25" cy="12.79" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="7.05" cy="16.39" r=".96"/>
+            <circle class="cls-133" cx="7.05" cy="13.99" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="9.45" cy="11.59" r=".96"/>
+            <circle class="cls-133" cx="11.85" cy="11.59" r=".96"/>
+          </g>
+          <circle class="cls-133" cx="7.05" cy="11.59" r=".96"/>
+        </g>
+        <g class="cls-130">
+          <g>
+            <circle class="cls-133" cx="9.45" cy="21.19" r=".96"/>
+            <circle class="cls-133" cx="11.85" cy="21.19" r=".96"/>
+            <circle class="cls-133" cx="9.45" cy="18.79" r=".96"/>
+            <circle class="cls-133" cx="11.85" cy="18.79" r=".96"/>
+            <circle class="cls-133" cx="10.65" cy="19.99" r=".96"/>
+            <circle class="cls-133" cx="8.25" cy="19.99" r=".96"/>
+            <circle class="cls-133" cx="10.65" cy="17.59" r=".96"/>
+            <circle class="cls-133" cx="8.25" cy="17.59" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="7.05" cy="21.19" r=".96"/>
+            <circle class="cls-133" cx="7.05" cy="18.79" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="9.45" cy="16.39" r=".96"/>
+            <circle class="cls-133" cx="11.85" cy="16.39" r=".96"/>
+          </g>
+          <circle class="cls-133" cx="7.05" cy="16.39" r=".96"/>
+        </g>
+        <g class="cls-121">
+          <g>
+            <circle class="cls-133" cx="9.45" cy="25.99" r=".96"/>
+            <circle class="cls-133" cx="11.85" cy="25.99" r=".96"/>
+            <circle class="cls-133" cx="9.45" cy="23.59" r=".96"/>
+            <circle class="cls-133" cx="11.85" cy="23.59" r=".96"/>
+            <circle class="cls-133" cx="10.65" cy="24.79" r=".96"/>
+            <circle class="cls-133" cx="8.25" cy="24.79" r=".96"/>
+            <circle class="cls-133" cx="10.65" cy="22.39" r=".96"/>
+            <circle class="cls-133" cx="8.25" cy="22.39" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="7.05" cy="25.99" r=".96"/>
+            <circle class="cls-133" cx="7.05" cy="23.59" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="9.45" cy="21.19" r=".96"/>
+            <circle class="cls-133" cx="11.85" cy="21.19" r=".96"/>
+          </g>
+          <circle class="cls-133" cx="7.05" cy="21.19" r=".96"/>
+        </g>
+        <g class="cls-129">
+          <g>
+            <circle class="cls-133" cx="9.45" cy="30.79" r=".96"/>
+            <circle class="cls-133" cx="11.85" cy="30.79" r=".96"/>
+            <circle class="cls-133" cx="9.45" cy="28.39" r=".96"/>
+            <circle class="cls-133" cx="11.85" cy="28.39" r=".96"/>
+            <circle class="cls-133" cx="10.65" cy="29.59" r=".96"/>
+            <circle class="cls-133" cx="8.25" cy="29.59" r=".96"/>
+            <circle class="cls-133" cx="10.65" cy="27.19" r=".96"/>
+            <circle class="cls-133" cx="8.25" cy="27.19" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="7.05" cy="30.79" r=".96"/>
+            <circle class="cls-133" cx="7.05" cy="28.39" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="9.45" cy="25.99" r=".96"/>
+            <circle class="cls-133" cx="11.85" cy="25.99" r=".96"/>
+          </g>
+          <circle class="cls-133" cx="7.05" cy="25.99" r=".96"/>
+        </g>
+        <g class="cls-122">
+          <g>
+            <circle class="cls-133" cx="9.45" cy="35.59" r=".96"/>
+            <circle class="cls-133" cx="11.85" cy="35.59" r=".96"/>
+            <circle class="cls-133" cx="9.45" cy="33.19" r=".96"/>
+            <circle class="cls-133" cx="11.85" cy="33.19" r=".96"/>
+            <circle class="cls-133" cx="10.65" cy="34.39" r=".96"/>
+            <circle class="cls-133" cx="8.25" cy="34.39" r=".96"/>
+            <circle class="cls-133" cx="10.65" cy="31.99" r=".96"/>
+            <circle class="cls-133" cx="8.25" cy="31.99" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="7.05" cy="35.59" r=".96"/>
+            <circle class="cls-133" cx="7.05" cy="33.19" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="9.45" cy="30.79" r=".96"/>
+            <circle class="cls-133" cx="11.85" cy="30.79" r=".96"/>
+          </g>
+          <circle class="cls-133" cx="7.05" cy="30.79" r=".96"/>
+        </g>
+        <g class="cls-127">
+          <g>
+            <circle class="cls-133" cx="9.45" cy="40.39" r=".96"/>
+            <circle class="cls-133" cx="11.85" cy="40.39" r=".96"/>
+            <circle class="cls-133" cx="9.45" cy="37.99" r=".96"/>
+            <circle class="cls-133" cx="11.85" cy="37.99" r=".96"/>
+            <circle class="cls-133" cx="10.65" cy="39.19" r=".96"/>
+            <circle class="cls-133" cx="8.25" cy="39.19" r=".96"/>
+            <circle class="cls-133" cx="10.65" cy="36.79" r=".96"/>
+            <circle class="cls-133" cx="8.25" cy="36.79" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="7.05" cy="40.39" r=".96"/>
+            <circle class="cls-133" cx="7.05" cy="37.99" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="9.45" cy="35.59" r=".96"/>
+            <circle class="cls-133" cx="11.85" cy="35.59" r=".96"/>
+          </g>
+          <circle class="cls-133" cx="7.05" cy="35.59" r=".96"/>
+        </g>
+        <g class="cls-118">
+          <g>
+            <circle class="cls-133" cx="4.65" cy="1.99" r=".96"/>
+            <circle class="cls-133" cx="7.05" cy="1.99" r=".96"/>
+            <circle class="cls-133" cx="4.65" cy="-.41" r=".96"/>
+            <circle class="cls-133" cx="7.05" cy="-.41" r=".96"/>
+            <circle class="cls-133" cx="5.85" cy=".79" r=".96"/>
+            <circle class="cls-133" cx="3.45" cy=".79" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="2.25" cy="1.99" r=".96"/>
+            <circle class="cls-133" cx="2.25" cy="-.41" r=".96"/>
+          </g>
+        </g>
+        <g class="cls-119">
+          <g>
+            <circle class="cls-133" cx="4.65" cy="6.79" r=".96"/>
+            <circle class="cls-133" cx="7.05" cy="6.79" r=".96"/>
+            <circle class="cls-133" cx="4.65" cy="4.39" r=".96"/>
+            <circle class="cls-133" cx="7.05" cy="4.39" r=".96"/>
+            <circle class="cls-133" cx="5.85" cy="5.59" r=".96"/>
+            <circle class="cls-133" cx="3.45" cy="5.59" r=".96"/>
+            <circle class="cls-133" cx="5.85" cy="3.19" r=".96"/>
+            <circle class="cls-133" cx="3.45" cy="3.19" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="2.25" cy="6.79" r=".96"/>
+            <circle class="cls-133" cx="2.25" cy="4.39" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="4.65" cy="1.99" r=".96"/>
+            <circle class="cls-133" cx="7.05" cy="1.99" r=".96"/>
+          </g>
+          <circle class="cls-133" cx="2.25" cy="1.99" r=".96"/>
+        </g>
+        <g class="cls-120">
+          <g>
+            <circle class="cls-133" cx="4.65" cy="11.59" r=".96"/>
+            <circle class="cls-133" cx="7.05" cy="11.59" r=".96"/>
+            <circle class="cls-133" cx="4.65" cy="9.19" r=".96"/>
+            <circle class="cls-133" cx="7.05" cy="9.19" r=".96"/>
+            <circle class="cls-133" cx="5.85" cy="10.39" r=".96"/>
+            <circle class="cls-133" cx="3.45" cy="10.39" r=".96"/>
+            <circle class="cls-133" cx="5.85" cy="7.99" r=".96"/>
+            <circle class="cls-133" cx="3.45" cy="7.99" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="2.25" cy="11.59" r=".96"/>
+            <circle class="cls-133" cx="2.25" cy="9.19" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="4.65" cy="6.79" r=".96"/>
+            <circle class="cls-133" cx="7.05" cy="6.79" r=".96"/>
+          </g>
+          <circle class="cls-133" cx="2.25" cy="6.79" r=".96"/>
+        </g>
+        <g class="cls-115">
+          <g>
+            <circle class="cls-133" cx="4.65" cy="16.39" r=".96"/>
+            <circle class="cls-133" cx="7.05" cy="16.39" r=".96"/>
+            <circle class="cls-133" cx="4.65" cy="13.99" r=".96"/>
+            <circle class="cls-133" cx="7.05" cy="13.99" r=".96"/>
+            <circle class="cls-133" cx="5.85" cy="15.19" r=".96"/>
+            <circle class="cls-133" cx="3.45" cy="15.19" r=".96"/>
+            <circle class="cls-133" cx="5.85" cy="12.79" r=".96"/>
+            <circle class="cls-133" cx="3.45" cy="12.79" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="2.25" cy="16.39" r=".96"/>
+            <circle class="cls-133" cx="2.25" cy="13.99" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="4.65" cy="11.59" r=".96"/>
+            <circle class="cls-133" cx="7.05" cy="11.59" r=".96"/>
+          </g>
+          <circle class="cls-133" cx="2.25" cy="11.59" r=".96"/>
+        </g>
+        <g class="cls-116">
+          <g>
+            <circle class="cls-133" cx="4.65" cy="21.19" r=".96"/>
+            <circle class="cls-133" cx="7.05" cy="21.19" r=".96"/>
+            <circle class="cls-133" cx="4.65" cy="18.79" r=".96"/>
+            <circle class="cls-133" cx="7.05" cy="18.79" r=".96"/>
+            <circle class="cls-133" cx="5.85" cy="19.99" r=".96"/>
+            <circle class="cls-133" cx="3.45" cy="19.99" r=".96"/>
+            <circle class="cls-133" cx="5.85" cy="17.59" r=".96"/>
+            <circle class="cls-133" cx="3.45" cy="17.59" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="2.25" cy="21.19" r=".96"/>
+            <circle class="cls-133" cx="2.25" cy="18.79" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="4.65" cy="16.39" r=".96"/>
+            <circle class="cls-133" cx="7.05" cy="16.39" r=".96"/>
+          </g>
+          <circle class="cls-133" cx="2.25" cy="16.39" r=".96"/>
+        </g>
+        <g class="cls-117">
+          <g>
+            <circle class="cls-133" cx="4.65" cy="25.99" r=".96"/>
+            <circle class="cls-133" cx="7.05" cy="25.99" r=".96"/>
+            <circle class="cls-133" cx="4.65" cy="23.59" r=".96"/>
+            <circle class="cls-133" cx="7.05" cy="23.59" r=".96"/>
+            <circle class="cls-133" cx="5.85" cy="24.79" r=".96"/>
+            <circle class="cls-133" cx="3.45" cy="24.79" r=".96"/>
+            <circle class="cls-133" cx="5.85" cy="22.39" r=".96"/>
+            <circle class="cls-133" cx="3.45" cy="22.39" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="2.25" cy="25.99" r=".96"/>
+            <circle class="cls-133" cx="2.25" cy="23.59" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="4.65" cy="21.19" r=".96"/>
+            <circle class="cls-133" cx="7.05" cy="21.19" r=".96"/>
+          </g>
+          <circle class="cls-133" cx="2.25" cy="21.19" r=".96"/>
+        </g>
+        <g class="cls-113">
+          <g>
+            <circle class="cls-133" cx="4.65" cy="30.79" r=".96"/>
+            <circle class="cls-133" cx="7.05" cy="30.79" r=".96"/>
+            <circle class="cls-133" cx="4.65" cy="28.39" r=".96"/>
+            <circle class="cls-133" cx="7.05" cy="28.39" r=".96"/>
+            <circle class="cls-133" cx="5.85" cy="29.59" r=".96"/>
+            <circle class="cls-133" cx="3.45" cy="29.59" r=".96"/>
+            <circle class="cls-133" cx="5.85" cy="27.19" r=".96"/>
+            <circle class="cls-133" cx="3.45" cy="27.19" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="2.25" cy="30.79" r=".96"/>
+            <circle class="cls-133" cx="2.25" cy="28.39" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="4.65" cy="25.99" r=".96"/>
+            <circle class="cls-133" cx="7.05" cy="25.99" r=".96"/>
+          </g>
+          <circle class="cls-133" cx="2.25" cy="25.99" r=".96"/>
+        </g>
+        <g class="cls-112">
+          <g>
+            <circle class="cls-133" cx="4.65" cy="35.59" r=".96"/>
+            <circle class="cls-133" cx="7.05" cy="35.59" r=".96"/>
+            <circle class="cls-133" cx="4.65" cy="33.19" r=".96"/>
+            <circle class="cls-133" cx="7.05" cy="33.19" r=".96"/>
+            <circle class="cls-133" cx="5.85" cy="34.39" r=".96"/>
+            <circle class="cls-133" cx="3.45" cy="34.39" r=".96"/>
+            <circle class="cls-133" cx="5.85" cy="31.99" r=".96"/>
+            <circle class="cls-133" cx="3.45" cy="31.99" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="2.25" cy="35.59" r=".96"/>
+            <circle class="cls-133" cx="2.25" cy="33.19" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="4.65" cy="30.79" r=".96"/>
+            <circle class="cls-133" cx="7.05" cy="30.79" r=".96"/>
+          </g>
+          <circle class="cls-133" cx="2.25" cy="30.79" r=".96"/>
+        </g>
+        <g class="cls-111">
+          <g>
+            <circle class="cls-133" cx="4.65" cy="40.39" r=".96"/>
+            <circle class="cls-133" cx="7.05" cy="40.39" r=".96"/>
+            <circle class="cls-133" cx="4.65" cy="37.99" r=".96"/>
+            <circle class="cls-133" cx="7.05" cy="37.99" r=".96"/>
+            <circle class="cls-133" cx="5.85" cy="39.19" r=".96"/>
+            <circle class="cls-133" cx="3.45" cy="39.19" r=".96"/>
+            <circle class="cls-133" cx="5.85" cy="36.79" r=".96"/>
+            <circle class="cls-133" cx="3.45" cy="36.79" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="2.25" cy="40.39" r=".96"/>
+            <circle class="cls-133" cx="2.25" cy="37.99" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="4.65" cy="35.59" r=".96"/>
+            <circle class="cls-133" cx="7.05" cy="35.59" r=".96"/>
+          </g>
+          <circle class="cls-133" cx="2.25" cy="35.59" r=".96"/>
+        </g>
+        <g class="cls-114">
+          <g>
+            <circle class="cls-133" cx="-.15" cy="1.99" r=".96"/>
+            <circle class="cls-133" cx="2.25" cy="1.99" r=".96"/>
+            <circle class="cls-133" cx="-.15" cy="-.41" r=".96"/>
+            <circle class="cls-133" cx="2.25" cy="-.41" r=".96"/>
+            <circle class="cls-133" cx="1.05" cy=".79" r=".96"/>
+          </g>
+        </g>
+        <g class="cls-105">
+          <g>
+            <circle class="cls-133" cx="-.15" cy="6.79" r=".96"/>
+            <circle class="cls-133" cx="2.25" cy="6.79" r=".96"/>
+            <circle class="cls-133" cx="-.15" cy="4.39" r=".96"/>
+            <circle class="cls-133" cx="2.25" cy="4.39" r=".96"/>
+            <circle class="cls-133" cx="1.05" cy="5.59" r=".96"/>
+            <circle class="cls-133" cx="1.05" cy="3.19" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="-.15" cy="1.99" r=".96"/>
+            <circle class="cls-133" cx="2.25" cy="1.99" r=".96"/>
+          </g>
+        </g>
+        <g class="cls-107">
+          <g>
+            <circle class="cls-133" cx="-.15" cy="11.59" r=".96"/>
+            <circle class="cls-133" cx="2.25" cy="11.59" r=".96"/>
+            <circle class="cls-133" cx="-.15" cy="9.19" r=".96"/>
+            <circle class="cls-133" cx="2.25" cy="9.19" r=".96"/>
+            <circle class="cls-133" cx="1.05" cy="10.39" r=".96"/>
+            <circle class="cls-133" cx="1.05" cy="7.99" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="-.15" cy="6.79" r=".96"/>
+            <circle class="cls-133" cx="2.25" cy="6.79" r=".96"/>
+          </g>
+        </g>
+        <g class="cls-104">
+          <g>
+            <circle class="cls-133" cx="-.15" cy="16.39" r=".96"/>
+            <circle class="cls-133" cx="2.25" cy="16.39" r=".96"/>
+            <circle class="cls-133" cx="-.15" cy="13.99" r=".96"/>
+            <circle class="cls-133" cx="2.25" cy="13.99" r=".96"/>
+            <circle class="cls-133" cx="1.05" cy="15.19" r=".96"/>
+            <circle class="cls-133" cx="1.05" cy="12.79" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="-.15" cy="11.59" r=".96"/>
+            <circle class="cls-133" cx="2.25" cy="11.59" r=".96"/>
+          </g>
+        </g>
+        <g class="cls-108">
+          <g>
+            <circle class="cls-133" cx="-.15" cy="21.19" r=".96"/>
+            <circle class="cls-133" cx="2.25" cy="21.19" r=".96"/>
+            <circle class="cls-133" cx="-.15" cy="18.79" r=".96"/>
+            <circle class="cls-133" cx="2.25" cy="18.79" r=".96"/>
+            <circle class="cls-133" cx="1.05" cy="19.99" r=".96"/>
+            <circle class="cls-133" cx="1.05" cy="17.59" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="-.15" cy="16.39" r=".96"/>
+            <circle class="cls-133" cx="2.25" cy="16.39" r=".96"/>
+          </g>
+        </g>
+        <g class="cls-110">
+          <g>
+            <circle class="cls-133" cx="-.15" cy="25.99" r=".96"/>
+            <circle class="cls-133" cx="2.25" cy="25.99" r=".96"/>
+            <circle class="cls-133" cx="-.15" cy="23.59" r=".96"/>
+            <circle class="cls-133" cx="2.25" cy="23.59" r=".96"/>
+            <circle class="cls-133" cx="1.05" cy="24.79" r=".96"/>
+            <circle class="cls-133" cx="1.05" cy="22.39" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="-.15" cy="21.19" r=".96"/>
+            <circle class="cls-133" cx="2.25" cy="21.19" r=".96"/>
+          </g>
+        </g>
+        <g class="cls-106">
+          <g>
+            <circle class="cls-133" cx="-.15" cy="30.79" r=".96"/>
+            <circle class="cls-133" cx="2.25" cy="30.79" r=".96"/>
+            <circle class="cls-133" cx="-.15" cy="28.39" r=".96"/>
+            <circle class="cls-133" cx="2.25" cy="28.39" r=".96"/>
+            <circle class="cls-133" cx="1.05" cy="29.59" r=".96"/>
+            <circle class="cls-133" cx="1.05" cy="27.19" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="-.15" cy="25.99" r=".96"/>
+            <circle class="cls-133" cx="2.25" cy="25.99" r=".96"/>
+          </g>
+        </g>
+        <g class="cls-103">
+          <g>
+            <circle class="cls-133" cx="-.15" cy="35.59" r=".96"/>
+            <circle class="cls-133" cx="2.25" cy="35.59" r=".96"/>
+            <circle class="cls-133" cx="-.15" cy="33.19" r=".96"/>
+            <circle class="cls-133" cx="2.25" cy="33.19" r=".96"/>
+            <circle class="cls-133" cx="1.05" cy="34.39" r=".96"/>
+            <circle class="cls-133" cx="1.05" cy="31.99" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="-.15" cy="30.79" r=".96"/>
+            <circle class="cls-133" cx="2.25" cy="30.79" r=".96"/>
+          </g>
+        </g>
+        <g class="cls-109">
+          <g>
+            <circle class="cls-133" cx="-.15" cy="40.39" r=".96"/>
+            <circle class="cls-133" cx="2.25" cy="40.39" r=".96"/>
+            <circle class="cls-133" cx="-.15" cy="37.99" r=".96"/>
+            <circle class="cls-133" cx="2.25" cy="37.99" r=".96"/>
+            <circle class="cls-133" cx="1.05" cy="39.19" r=".96"/>
+            <circle class="cls-133" cx="1.05" cy="36.79" r=".96"/>
+          </g>
+          <g>
+            <circle class="cls-133" cx="-.15" cy="35.59" r=".96"/>
+            <circle class="cls-133" cx="2.25" cy="35.59" r=".96"/>
+          </g>
+        </g>
+      </g>
+      <path class="cls-131" d="m27.86,39.67H2.5c-1.38,0-2.5-1.12-2.5-2.5V2.5C0,1.12,1.12,0,2.5,0h25.36c1.38,0,2.5,1.12,2.5,2.5v34.67c0,1.38-1.12,2.5-2.5,2.5ZM2.5,1c-.83,0-1.5.67-1.5,1.5v34.67c0,.83.67,1.5,1.5,1.5h25.36c.83,0,1.5-.67,1.5-1.5V2.5c0-.83-.67-1.5-1.5-1.5H2.5Z"/>
+    </g>
+    <rect class="cls-101" x=".5" y=".5" width="29.36" height="38.67" rx="2" ry="2"/>
+  </g>
+</svg>
