@@ -47,7 +47,7 @@ function startGame() {
         //<img src="/assets/cards/4-C.svg">
         let cardImg = document.createElement("img");
         let card = deck.pop();
-        cardImg.src = "/assets/cards/" + card + ".svg";
+        cardImg.src = "assets/cards/" + card + ".svg";
         dealerSum += getValue(card);
         dealerAceCount += checkAce(card);
         document.querySelector(".dealer-cards").append(cardImg);
@@ -56,7 +56,7 @@ function startGame() {
     for (let i = 0; i < 2; i++) {
         let cardImg = document.createElement("img");
         let card = deck.pop();
-        cardImg.src = "/assets/cards/" + card + ".svg";
+        cardImg.src = "assets/cards/" + card + ".svg";
         yourSum += getValue(card);
         yourAceCount += checkAce(card);
         document.getElementById("your-cards").append(cardImg);
@@ -74,7 +74,7 @@ function hit() {
 
     let cardImg = document.createElement("img");
     let card = deck.pop();
-    cardImg.src = "/assets/cards/" + card + ".svg";
+    cardImg.src = "assets/cards/" + card + ".svg";
     yourSum += getValue(card);
     yourAceCount += checkAce(card);
     document.getElementById("your-cards").append(cardImg);
@@ -90,7 +90,7 @@ function stay() {
     yourSum = reduceAce(yourSum, yourAceCount);
 
     canHit = false;
-    document.getElementById("hidden").src = "/assets/cards/" + hidden + ".svg";
+    document.getElementById("hidden").src = "assets/cards/" + hidden + ".svg";
 
     let message = "";
     if (yourSum > 21) {
