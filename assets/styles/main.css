@@ -126,6 +126,12 @@ img {
     margin: 1em auto;
 }
 
+@media (min-width: 22.5em) {
+    main {
+        width: 22em;
+    }
+}
+
 @media (min-width: 35em) {
     main {
         width: 40em;
