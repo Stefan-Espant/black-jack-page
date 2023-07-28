@@ -11,15 +11,38 @@ body {
     height: 100vh;
     background-image: linear-gradient(rgb(56, 89, 60), rgb(76, 128, 76));
     background-repeat: no-repeat;
+    position: relative;
+}
+
+main {
+    width: 20em;
+    margin: auto;
 }
 
 main section {
+    width: fit-content;
+    margin: 0 auto;
     padding: 1em;
 }
 
+.controls {
+    display: flex;
+    gap: 0.5em;
+    margin: 1em auto;
+    flex-wrap: wrap;
+    width: 14em;
+}
+
 /* Typografie */
+
+@import url();
+
 h1, h2 {
     color: #f8f8f8;
+}
+
+h1 {
+    font-size: 3em;
 }
 
 /* Interactie */
@@ -36,6 +59,11 @@ button {
     gap: 0.5em;
     border-radius: 0.25em;
     padding: 0.5em 0.8em;
+    transition: 0.3s ease-in-out;
+}
+
+button:focus-visible {
+    outline: none;
 }
 
 button svg {
@@ -44,20 +72,68 @@ button svg {
 
 /* game */
 
-img {
-    width: 8em;
-    height: auto;
-    margin: 0 1em;
+.dealer-cards, #your-cards {
+    display: flex;
+    align-items: center;    
+    width: 100%;
+    flex-wrap: wrap;
+    gap: 0.5em;
 }
 
-.hit {
-    width: 8em;
-    background-image: linear-gradient(90deg, rgb(233, 13, 42), rgb(241, 133, 155));
-    color: white;
+img {
+    width: 6em;
+    height: auto;
 }
 
 .pass {
     width: 8em;
+    background-image: linear-gradient(90deg, rgb(233, 13, 42), rgb(241, 133, 155));
+    color: white;
+    transition: 0.3s ease-in;
+}
+
+.pass:hover, .pass:focus {
+    background-image: linear-gradient(-90deg, rgb(231, 41, 67), rgb(250, 164, 181));
+    color: white;
+}
+
+.hit {
+    width: 8em;
     background-image: linear-gradient(90deg, rgb(81, 188, 81), rgb(129, 249, 131));
     color: white;
+}
+
+.hit:hover, .hit:focus {
+    background-image: linear-gradient(-90deg, rgb(100, 186, 100), rgb(190, 250, 191));
+    color: white;
+}
+
+.play-again {
+    width: 10em;
+    background-image: linear-gradient(90deg, rgb(13, 97, 233), rgb(133, 165, 241));
+    color: white;
+}
+
+.play-again:hover, .play-again:focus {
+    background-image: linear-gradient(-90deg, rgb(59, 125, 231),rgb(174, 195, 242));
+    color: white;
+}
+
+#results {
+    color: #fff;
+    text-align: center;
+    margin: 1em auto;
+}
+
+@media (min-width: 35em) {
+    main {
+        width: 40em;
+        border: 2px solid rgb(173, 186, 173);
+        border-radius: 0.5em;
+        transform: translateY(50%);
+    }
+
+    .controls {
+        width: fit-content;
+    }
 }

@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
     <title>Blackjack</title>
     <link rel="stylesheet" href="/assets/styles/main.css">
-    <link rel="icon" type="image/png" href="">
+    <link rel="icon" type="image/png" href="/assets/images/favicon.png">
 
     <script src="/assets/scripts/script.js"></script>
   </head>
@@ -17,8 +17,8 @@
             <section>
                 <h1>Blackjack</h1>
             </section>
-            <section class="dealers-hand">
-                <h2>Dealer's hand <span id="dealer-sum"></span></h2>
+            <section>
+                <h2>Dealer's hand: <span id="dealer-sum"></span></h2>
                 <div class="dealer-cards">
                     <img id="hidden" src="/assets/cards/0.svg">
                 </div>
@@ -28,6 +28,7 @@
                 <div id="your-cards"></div>
             </section>
 
+            <div class="controls">
                 <button class="hit">
                     <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-cards" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
                         <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
@@ -47,7 +48,18 @@
                      </svg>
                     Pass
                 </button>
+                <button class="play-again" type="button" onClick="window.location.reload()">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-refresh" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                        <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+                        <path d="M20 11a8.1 8.1 0 0 0 -15.5 -2m-.5 -4v4h4"></path>
+                        <path d="M4 13a8.1 8.1 0 0 0 15.5 2m.5 4v-4h-4"></path>
+                     </svg>
+                    Play again
+                 </button>
+            </div>
+
                 <p id="results"></p>
+                 
         </main>
 
     </body>

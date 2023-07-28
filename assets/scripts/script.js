@@ -35,7 +35,6 @@ function shuffleDeck() {
         deck[i] = deck[j];
         deck[j] = temp;
     }
-    console.log(deck);
 }
 
 function startGame() {
@@ -53,7 +52,6 @@ function startGame() {
         dealerAceCount += checkAce(card);
         document.querySelector(".dealer-cards").append(cardImg);
     }
-    console.log(dealerSum);
 
     for (let i = 0; i < 2; i++) {
         let cardImg = document.createElement("img");
@@ -64,7 +62,6 @@ function startGame() {
         document.getElementById("your-cards").append(cardImg);
     }
 
-    console.log(yourSum);
     document.querySelector(".hit").addEventListener("click", hit);
     document.querySelector(".pass").addEventListener("click", stay);
 
