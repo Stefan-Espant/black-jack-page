@@ -120,6 +120,7 @@ img {
 }
 
 #results {
+    height: 1em;
     color: #fff;
     text-align: center;
     margin: 1em auto;
