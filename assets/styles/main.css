@@ -18,7 +18,6 @@ body {
 main {
     width: 20em;
     margin: auto;
-    background-image: linear-gradient(rgb(75, 111, 75), rgb(56, 89, 60));
 }
 
 main section {
@@ -87,11 +86,34 @@ img {
     height: auto;
 }
 
+.controls {
+    display: flex;
+    gap: 0.5em;
+    margin: 1em auto;
+    padding: 0.5em;
+    flex-wrap: wrap;
+    width: 20em;
+  }
+
+.hit, .pass, .play-again {
+    width: 100%;
+    height: 4em;
+    transition: 0.3s ease-in;
+}
+
 .pass {
-    width: 8em;
     background-image: linear-gradient(90deg, rgb(233, 13, 42), rgb(241, 133, 155));
     color: white;
-    transition: 0.3s ease-in;
+}
+
+.hit {
+    background-image: linear-gradient(90deg, rgb(81, 188, 81), rgb(129, 249, 131));
+    color: white;
+}
+
+.play-again {
+    background-image: linear-gradient(90deg, rgb(13, 97, 233), rgb(133, 165, 241));
+    color: white;
 }
 
 .pass:hover, .pass:focus {
@@ -99,20 +121,8 @@ img {
     color: white;
 }
 
-.hit {
-    width: 8em;
-    background-image: linear-gradient(90deg, rgb(81, 188, 81), rgb(129, 249, 131));
-    color: white;
-}
-
 .hit:hover, .hit:focus {
     background-image: linear-gradient(-90deg, rgb(100, 186, 100), rgb(190, 250, 191));
-    color: white;
-}
-
-.play-again {
-    width: 10em;
-    background-image: linear-gradient(90deg, rgb(13, 97, 233), rgb(133, 165, 241));
     color: white;
 }
 
@@ -131,16 +141,21 @@ img {
 @media (min-width: 22.5em) {
     main {
         width: 22em;
-        height: 100vh;
+        margin-top: 4em;
+        background-image: linear-gradient(rgb(75, 111, 75), rgb(56, 89, 60));
+        border: 2px solid rgb(173, 186, 173);
+        border-radius: 0.5em;
     }
 
-    .controls {
-        display: flex;
-        gap: 0.5em;
-        margin: 1em auto;
-        flex-wrap: wrap;
-        width: 20em;
-      }
+    .pass {
+        width: 8em;
+    }
+    .hit {
+        width: 8em;
+    }
+    .play-again {
+        width: 10em;
+    }
 
     .hit, .pass, .play-again {
         width: 100%;
@@ -148,16 +163,19 @@ img {
     }
 }
 
-@media (min-width: 35em) {
+@media (min-width: 45em) {
     main {
         width: 40em;
         height: fit-content;
-        border: 2px solid rgb(173, 186, 173);
-        border-radius: 0.5em;
         margin: 5em auto 2em;
     }
 
     .controls {
         width: fit-content;
+    }
+
+    .hit, .pass, .play-again {
+        width: 10em;
+        height: 3em;
     }
 }
