@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="nl">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -15,7 +15,10 @@
 
         <main>
             <section>
-                <h1>Blackjack</h1>
+                <h1>
+                    <img src="assets/images/favicon-256x187.svg" alt="speelkaarten" width="20" height="16" />
+                    Blackjack
+                </h1>
             </section>
             <section>
                 <h2>Dealer's hand: <span id="dealer-sum"></span></h2>
@@ -59,7 +62,16 @@
             </div>
 
                 <p id="results"></p>
-                 
+
+            <section>
+
+                <div id="player-money">
+                    <span style="color: white" id="money-label">Balans:</span>
+                    <span style="color: white" id="money-amount">€ 0</span> <!-- Startbedrag (bijv. € 100) -->
+                </div>
+
+                <button class="reset-money" onclick="resetMoney()">Reset Bedrag</button>
+            </section>
         </main>
 
     </body>

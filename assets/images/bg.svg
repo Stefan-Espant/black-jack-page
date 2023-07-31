@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Laag_2" data-name="Laag 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: url(#Naamloos_verloop_8);
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: url(#Nieuw_patroon_5);
+        opacity: .2;
+      }
+    </style>
+    <linearGradient id="Naamloos_verloop_8" data-name="Naamloos verloop 8" x1="960" y1="0" x2="960" y2="1080" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4b6f4b"/>
+      <stop offset="1" stop-color="#32593c"/>
+    </linearGradient>
+    <pattern id="Nieuw_patroon_5" data-name="Nieuw patroon 5" x="0" y="0" width="16" height="16" patternTransform="translate(2966.69 679.59)" patternUnits="userSpaceOnUse" viewBox="0 0 16 16">
+      <g>
+        <rect class="cls-1" width="16" height="16"/>
+        <circle class="cls-3" cx="12" cy="12" r="1"/>
+        <circle class="cls-3" cx="4" cy="12" r="1"/>
+        <g>
+          <circle class="cls-3" cx="12" cy="12" r="1"/>
+          <circle class="cls-3" cx="16" cy="4" r="1"/>
+        </g>
+        <g>
+          <circle class="cls-3" cx="4" cy="12" r="1"/>
+          <circle class="cls-3" cx="8" cy="4" r="1"/>
+          <circle class="cls-3" cx="12" cy="12" r="1"/>
+        </g>
+        <g>
+          <circle class="cls-3" cx="0" cy="4" r="1"/>
+          <circle class="cls-3" cx="4" cy="12" r="1"/>
+        </g>
+        <circle class="cls-3" cx="16" cy="4" r="1"/>
+        <g>
+          <circle class="cls-3" cx="8" cy="4" r="1"/>
+          <circle class="cls-3" cx="16" cy="4" r="1"/>
+        </g>
+        <g>
+          <circle class="cls-3" cx="0" cy="4" r="1"/>
+          <circle class="cls-3" cx="8" cy="4" r="1"/>
+        </g>
+        <circle class="cls-3" cx="0" cy="4" r="1"/>
+      </g>
+    </pattern>
+  </defs>
+  <g id="Laag_2-2" data-name="Laag 2">
+    <rect class="cls-2" width="1920" height="1080"/>
+    <rect class="cls-4" width="1920" height="1080"/>
+  </g>
+</svg>
